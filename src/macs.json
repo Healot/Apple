@@ -1,0 +1,2525 @@
+[
+  {
+    "intro": "1998-05-06T00:00:00.000Z",
+    "disc": "1999-01-05T00:00:00.000Z",
+    "model": "M4984 (EMC None)",
+    "family": "iMac - Original",
+    "titles": [
+      "iMac G3 233 Original - Bondi (Rev. A &amp; B)"
+    ]
+  },
+  {
+    "intro": "1998-03-02T00:00:00.000Z",
+    "disc": "1998-09-01T00:00:00.000Z",
+    "model": "M4405 (EMC None)",
+    "family": "Minitower",
+    "titles": [
+      "Mac Server G3 233 Minitower",
+      "Mac Server G3 266 Minitower",
+      "Mac Server G3 300 Minitower",
+      "Mac Server G3 333 Minitower",
+      "Power Macintosh G3 300 Minitower",
+      "Power Macintosh G3 333 Minitower"
+    ]
+  },
+  {
+    "intro": "1998-05-06T00:00:00.000Z",
+    "disc": "1998-09-01T00:00:00.000Z",
+    "model": "M4753 (EMC None)",
+    "family": "G3 Series/Wallstreet",
+    "titles": [
+      "PowerBook G3 233 (Wallstreet)",
+      "PowerBook G3 250 (Wallstreet)",
+      "PowerBook G3 292 (Wallstreet)",
+      "PowerBook G3 233 (PDQ - Late 1998)",
+      "PowerBook G3 266 (PDQ - Late 1998)",
+      "PowerBook G3 300 (PDQ - Late 1998)"
+    ]
+  },
+  {
+    "intro": "1998-03-17T00:00:00.000Z",
+    "disc": "1998-12-14T00:00:00.000Z",
+    "model": "M3979 (EMC None)",
+    "family": "Power Mac G3 DT",
+    "titles": [
+      "Power Macintosh G3 300 Desktop"
+    ]
+  },
+  {
+    "intro": "1998-03-31T00:00:00.000Z",
+    "disc": "1998-09-01T00:00:00.000Z",
+    "model": "M4787 (EMC None)",
+    "family": "Power Mac G3 AIO",
+    "titles": [
+      "Power Macintosh G3 233 All-in-One",
+      "Power Macintosh G3 266 All-in-One"
+    ]
+  },
+  {
+    "intro": "1999-07-21T00:00:00.000Z",
+    "disc": "2000-09-13T00:00:00.000Z",
+    "model": "M2453 (EMC N/A)",
+    "family": "Original/Clamshell",
+    "titles": [
+      "iBook G3/300 (Original/Clamshell)"
+    ]
+  },
+  {
+    "intro": "1999-01-05T00:00:00.000Z",
+    "disc": "1999-04-14T00:00:00.000Z",
+    "model": "M4984 (EMC None)",
+    "family": "iMac - Fruit Colors",
+    "titles": [
+      "iMac G3 266 (Fruit Colors)",
+      "iMac G3 333 (Fruit Colors)"
+    ]
+  },
+  {
+    "intro": "1999-10-05T00:00:00.000Z",
+    "disc": "2000-07-19T00:00:00.000Z",
+    "model": "M5521 (EMC 1821)",
+    "family": "Slot Loading No FW",
+    "titles": [
+      "iMac G3 350 (Slot Loading - Blueberry)",
+      "iMac G3 400 DV (Slot Loading - Fruit)",
+      "iMac G3 400 DV SE (Slot Loading)"
+    ]
+  },
+  {
+    "intro": "1999-01-05T00:00:00.000Z",
+    "disc": "1999-06-01T00:00:00.000Z",
+    "model": "M5183 (EMC None)",
+    "family": "Blue &amp; White",
+    "titles": [
+      "Mac Server G3 350 (Blue &amp; White)",
+      "Mac Server G3 400 (Blue &amp; White)",
+      "Mac Server G3 450 (Blue &amp; White)",
+      "Power Macintosh G3 300 (Blue &amp; White)",
+      "Power Macintosh G3 350 (Blue &amp; White)",
+      "Power Macintosh G3 400 (Blue &amp; White)",
+      "Power Macintosh G3 450 (Blue &amp; White)"
+    ]
+  },
+  {
+    "intro": "1999-12-02T00:00:00.000Z",
+    "disc": "2000-07-19T00:00:00.000Z",
+    "model": "M5183 (EMC 1843)",
+    "family": "Mac Server G4 - AGP",
+    "titles": [
+      "Mac Server G4 350 (AGP)",
+      "Mac Server G4 400 (AGP)",
+      "Mac Server G4 450 (AGP)",
+      "Mac Server G4 500 (AGP)",
+      "Power Macintosh G4 500 (AGP)",
+      "Power Macintosh G4 350 (AGP)"
+    ]
+  },
+  {
+    "intro": "1999-05-10T00:00:00.000Z",
+    "disc": "2000-02-16T00:00:00.000Z",
+    "model": "M5343 (EMC None)",
+    "family": "Bronze KB/Lombard",
+    "titles": [
+      "PowerBook G3 333 (Bronze KB/Lombard)",
+      "PowerBook G3 400 (Bronze KB/Lombard)"
+    ]
+  },
+  {
+    "intro": "1999-08-31T00:00:00.000Z",
+    "disc": "1999-10-13T00:00:00.000Z",
+    "model": "M5183 (EMC 1832)",
+    "family": "Power Mac G4 - PCI",
+    "titles": [
+      "Power Macintosh G4 400 (PCI)",
+      "Power Macintosh G4 350 (PCI)"
+    ]
+  },
+  {
+    "intro": "1999-08-31T00:00:00.000Z",
+    "disc": "2000-07-19T00:00:00.000Z",
+    "model": "M5183 (EMC 1810/1843*)",
+    "family": "Power Mac G4 - AGP",
+    "titles": [
+      "Power Macintosh G4 450 (AGP)",
+      "Power Macintosh G4 400 (AGP)"
+    ]
+  },
+  {
+    "intro": "2000-02-16T00:00:00.000Z",
+    "disc": "2000-09-13T00:00:00.000Z",
+    "model": "M2453 (EMC N/A)",
+    "family": "Original/Clamshell",
+    "titles": [
+      "iBook G3/366 SE (Original/Clamshell)"
+    ]
+  },
+  {
+    "intro": "2000-09-13T00:00:00.000Z",
+    "disc": "2001-05-01T00:00:00.000Z",
+    "model": "M6411 (EMC N/A)",
+    "family": "Firewire",
+    "titles": [
+      "iBook G3/366 (Firewire/Clamshell)",
+      "iBook G3/466 SE (Firewire/Clamshell)"
+    ]
+  },
+  {
+    "intro": "2000-07-19T00:00:00.000Z",
+    "disc": "2001-02-22T00:00:00.000Z",
+    "model": "M5521 (EMC 1857)",
+    "family": "Summer 2000 - No FW/AP",
+    "titles": [
+      "iMac G3 350 (Summer 2000 - Indigo)",
+      "iMac G3 400 DV (Summer 2000 - I/R)",
+      "iMac G3 450 DV+ (Summer 2000)",
+      "iMac G3 500 DV SE (Summer 2000)"
+    ]
+  },
+  {
+    "intro": "2000-07-19T00:00:00.000Z",
+    "disc": "2001-01-09T00:00:00.000Z",
+    "model": "M5183 (EMC 1864)",
+    "family": "Gigabit Ethernet",
+    "titles": [
+      "Mac Server G4 450 DP (Gigabit)",
+      "Mac Server G4 500 DP (Gigabit)",
+      "Power Macintosh G4 450 DP (Gigabit)",
+      "Power Macintosh G4 500 DP (Gigabit)"
+    ]
+  },
+  {
+    "intro": "2000-02-16T00:00:00.000Z",
+    "disc": "2001-01-09T00:00:00.000Z",
+    "model": "M7572 (EMC 1840-1)",
+    "family": "Firewire/Pismo",
+    "titles": [
+      "PowerBook G3 400 (Firewire/Pismo)",
+      "PowerBook G3 500 (Firewire/Pismo)"
+    ]
+  },
+  {
+    "intro": "2000-07-19T00:00:00.000Z",
+    "disc": "2001-01-09T00:00:00.000Z",
+    "model": "M5183 (EMC 1856)",
+    "family": "Gigabit Ethernet",
+    "titles": [
+      "Power Macintosh G4 400 (Gigabit)"
+    ]
+  },
+  {
+    "intro": "2000-07-19T00:00:00.000Z",
+    "disc": "2001-07-03T00:00:00.000Z",
+    "model": "M7886 (EMC 1844)",
+    "family": "Power Mac G4 Cube",
+    "titles": [
+      "Power Macintosh G4 450 Cube",
+      "Power Macintosh G4 500 Cube"
+    ]
+  },
+  {
+    "intro": "2001-05-01T00:00:00.000Z",
+    "disc": "2001-10-16T00:00:00.000Z",
+    "model": "M6497 (EMC 1875)",
+    "family": "Dual USB",
+    "titles": [
+      "iBook G3/500 (Dual USB - Tr)"
+    ]
+  },
+  {
+    "intro": "2001-10-16T00:00:00.000Z",
+    "disc": "2002-05-20T00:00:00.000Z",
+    "model": "M6497 (EMC N/A)",
+    "family": "Late 2001",
+    "titles": [
+      "iBook G3/500 (Late 2001 - Tr)",
+      "iBook G3/600 (Late 2001 - Tr)"
+    ]
+  },
+  {
+    "intro": "2001-02-22T00:00:00.000Z",
+    "disc": "2001-07-18T00:00:00.000Z",
+    "model": "M5521 (EMC 1857)",
+    "family": "iMac - Early 2001",
+    "titles": [
+      "iMac G3 400 (Early 2001 - Indigo)",
+      "iMac G3 500 (Early 2001 - Flower/Blue)",
+      "iMac G3 600 SE (Early 2001)",
+      "iMac G3 500 (Summer 2001 - I/S)",
+      "iMac G3 600 (Summer 2001)",
+      "iMac G3 700 SE (Summer 2001)"
+    ]
+  },
+  {
+    "intro": "2001-01-09T00:00:00.000Z",
+    "disc": "2001-07-18T00:00:00.000Z",
+    "model": "M5183 (EMC 1862)",
+    "family": "Digital Audio",
+    "titles": [
+      "Mac Server G4 533 (Digital Audio)",
+      "Mac Server G4 533 DP (Digital Audio)",
+      "Power Macintosh G4 466 (Digital Audio)",
+      "Power Macintosh G4 533 (Digital Audio)",
+      "Power Macintosh G4 667 (Digital Audio)",
+      "Power Macintosh G4 733 (Digital Audio)"
+    ]
+  },
+  {
+    "intro": "2001-09-08T00:00:00.000Z",
+    "disc": "2002-01-28T00:00:00.000Z",
+    "model": "M8493 (EMC 1896)",
+    "family": "Quicksilver",
+    "titles": [
+      "Mac Server G4 733 (Quicksilver)",
+      "Mac Server G4 800 DP (Quicksilver)",
+      "Power Macintosh G4 733 (Quicksilver)",
+      "Power Macintosh G4 867 (Quicksilver)",
+      "Power Macintosh G4 800 DP (Quicksilver)"
+    ]
+  },
+  {
+    "intro": "2001-01-09T00:00:00.000Z",
+    "disc": "2001-10-16T00:00:00.000Z",
+    "model": "M5884 (EMC 1854)",
+    "family": "PowerBook G4",
+    "titles": [
+      "PowerBook G4 400 (Original - Ti)",
+      "PowerBook G4 500 (Original - Ti)"
+    ]
+  },
+  {
+    "intro": "2001-10-16T00:00:00.000Z",
+    "disc": "2002-04-29T00:00:00.000Z",
+    "model": "M8407 (EMC 1895)",
+    "family": "Gigabit Ethernet",
+    "titles": [
+      "PowerBook G4 550 (Gigabit - Ti)",
+      "PowerBook G4 667 (Gigabit - Ti)"
+    ]
+  },
+  {
+    "intro": "2002-04-29T00:00:00.000Z",
+    "disc": "2003-05-06T00:00:00.000Z",
+    "model": "A1002 (EMC 1903)",
+    "family": "eMac - Original",
+    "titles": [
+      "eMac G4/700",
+      "eMac G4/800"
+    ]
+  },
+  {
+    "intro": "2002-01-07T00:00:00.000Z",
+    "disc": "2002-05-20T00:00:00.000Z",
+    "model": "M8413 (EMC N/A)",
+    "family": "14.1 LCD",
+    "titles": [
+      "iBook G3/600 14-Inch (Early 2002 - Tr)"
+    ]
+  },
+  {
+    "intro": "2002-05-20T00:00:00.000Z",
+    "disc": "2002-11-06T00:00:00.000Z",
+    "model": "A1005 (EMC 1916)",
+    "family": "16 VRAM",
+    "titles": [
+      "iBook G3/600 (16 VRAM - Tr)",
+      "iBook G3/700 (16 VRAM - Tr)"
+    ]
+  },
+  {
+    "intro": "2002-05-20T00:00:00.000Z",
+    "disc": "2002-11-06T00:00:00.000Z",
+    "model": "A1007 (EMC 1924)",
+    "family": "14.1 LCD 16 VRAM",
+    "titles": [
+      "iBook G3/700 14-Inch (16 VRAM - Tr)",
+      "iBook G3/800 14-Inch (32 VRAM - Tr)"
+    ]
+  },
+  {
+    "intro": "2002-11-06T00:00:00.000Z",
+    "disc": "2003-04-22T00:00:00.000Z",
+    "model": "A1005 (EMC N/A)",
+    "family": "Opaque 16 VRAM",
+    "titles": [
+      "iBook G3/700 (16 VRAM - Op)",
+      "iBook G3/800 (32 VRAM - Tr)"
+    ]
+  },
+  {
+    "intro": "2002-01-07T00:00:00.000Z",
+    "disc": "2003-02-04T00:00:00.000Z",
+    "model": "M6498 (EMC 1873)",
+    "family": "iMac Flat Panel",
+    "titles": [
+      "iMac G4 700 (Flat Panel)",
+      "iMac G4 800 (Flat Panel)"
+    ]
+  },
+  {
+    "intro": "2002-07-17T00:00:00.000Z",
+    "disc": "2003-02-04T00:00:00.000Z",
+    "model": "M6498 (EMC 1936)",
+    "family": "iMac 17&quot; Flat Panel",
+    "titles": [
+      "iMac G4 800 17&quot; (Flat Panel)"
+    ]
+  },
+  {
+    "intro": "2002-01-28T00:00:00.000Z",
+    "disc": "2002-05-14T00:00:00.000Z",
+    "model": "M8493 (EMC 1896)",
+    "family": "Quicksilver 2002",
+    "titles": [
+      "Mac Server G4 933 (QS 2002)",
+      "Mac Server G4 1.0 DP (QS 2002)",
+      "Power Macintosh G4 800 (QS 2002)",
+      "Power Macintosh G4 933 (QS 2002)",
+      "Power Macintosh G4 1.0 DP (QS 2002)"
+    ]
+  },
+  {
+    "intro": "2002-08-27T00:00:00.000Z",
+    "disc": "2003-01-28T00:00:00.000Z",
+    "model": "M8570 (EMC 1914)",
+    "family": "Mirrored Drive Doors",
+    "titles": [
+      "Mac Server G4 1.0 DP (MDD)",
+      "Mac Server G4 1.25 DP (MDD)",
+      "Power Macintosh G4 867 DP (MDD)",
+      "Power Macintosh G4 1.0 DP (MDD)",
+      "Power Macintosh G4 1.25 DP (MDD)"
+    ]
+  },
+  {
+    "intro": "2002-04-29T00:00:00.000Z",
+    "disc": "2002-11-06T00:00:00.000Z",
+    "model": "A1001 (EMC 1913)",
+    "family": "DVI",
+    "titles": [
+      "PowerBook G4 667 (DVI - Ti)",
+      "PowerBook G4 800 (DVI - Ti)"
+    ]
+  },
+  {
+    "intro": "2002-11-06T00:00:00.000Z",
+    "disc": "2003-09-16T00:00:00.000Z",
+    "model": "A1025 (EMC N/A)",
+    "family": "1 GHz/867 MHz",
+    "titles": [
+      "PowerBook G4 867 (Ti)",
+      "PowerBook G4 1.0 (Ti)"
+    ]
+  },
+  {
+    "intro": "2002-05-14T00:00:00.000Z",
+    "disc": "2003-02-10T00:00:00.000Z",
+    "model": "N/A (EMC N/A)",
+    "family": "Xserve",
+    "titles": [
+      "Xserve G4/1.0",
+      "Xserve G4/1.0 DP"
+    ]
+  },
+  {
+    "intro": "2003-05-06T00:00:00.000Z",
+    "disc": "2003-10-22T00:00:00.000Z",
+    "model": "A1002 (EMC 1955)",
+    "family": "eMac ATI",
+    "titles": [
+      "eMac G4/800 (ATI)",
+      "eMac G4/1.0 (ATI)"
+    ]
+  },
+  {
+    "intro": "2003-04-22T00:00:00.000Z",
+    "disc": "2003-10-22T00:00:00.000Z",
+    "model": "A1005 (EMC 1916C)",
+    "family": "800 MHz 32 VRAM",
+    "titles": [
+      "iBook G3/800 (Early 2003 - Op)",
+      "iBook G3/900 (Early 2003 - Op)"
+    ]
+  },
+  {
+    "intro": "2003-04-22T00:00:00.000Z",
+    "disc": "2003-10-22T00:00:00.000Z",
+    "model": "A1007 (EMC 1924)",
+    "family": "14.1 900 MHz 32 VRAM",
+    "titles": [
+      "iBook G3/900 14-Inch (Early 2003 - Op)"
+    ]
+  },
+  {
+    "intro": "2003-10-22T00:00:00.000Z",
+    "disc": "2004-04-19T00:00:00.000Z",
+    "model": "A1054 (EMC N/A)",
+    "family": "iBook G4",
+    "titles": [
+      "iBook G4/800 12-Inch (Original - Op)"
+    ]
+  },
+  {
+    "intro": "2003-10-22T00:00:00.000Z",
+    "disc": "2004-04-19T00:00:00.000Z",
+    "model": "A1055 (EMC N/A)",
+    "family": "iBook G4 14-Inch",
+    "titles": [
+      "iBook G4/933 14-Inch (Original - Op)",
+      "iBook G4/1.0 14-Inch (Original - Op)"
+    ]
+  },
+  {
+    "intro": "2003-02-04T00:00:00.000Z",
+    "disc": "2003-09-08T00:00:00.000Z",
+    "model": "M6498 (EMC N/A)",
+    "family": "iMac Spring 2003",
+    "titles": [
+      "iMac G4 800 - X Only (Flat Panel)"
+    ]
+  },
+  {
+    "intro": "2003-02-04T00:00:00.000Z",
+    "disc": "2003-09-08T00:00:00.000Z",
+    "model": "M6498 (EMC 1956)",
+    "family": "iMac 17&quot; 1 GHz",
+    "titles": [
+      "iMac G4 1.0 17&quot; (Flat Panel)"
+    ]
+  },
+  {
+    "intro": "2003-09-08T00:00:00.000Z",
+    "disc": "2004-07-01T00:00:00.000Z",
+    "model": "M6498 (EMC 1990)",
+    "family": "iMac USB 2.0",
+    "titles": [
+      "iMac G4 1.0 15&quot; &quot;FP&quot; (USB 2.0)"
+    ]
+  },
+  {
+    "intro": "2003-09-08T00:00:00.000Z",
+    "disc": "2004-07-01T00:00:00.000Z",
+    "model": "M6498 (EMC 1991)",
+    "family": "iMac USB 2.0",
+    "titles": [
+      "iMac G4 1.25 17&quot; &quot;FP&quot; (USB 2.0)"
+    ]
+  },
+  {
+    "intro": "2003-11-18T00:00:00.000Z",
+    "disc": "2004-07-01T00:00:00.000Z",
+    "model": "A1065 (EMC 1992)",
+    "family": "iMac USB 2.0",
+    "titles": [
+      "iMac G4 1.25 20&quot; &quot;FP&quot; (USB 2.0)"
+    ]
+  },
+  {
+    "intro": "2003-01-07T00:00:00.000Z",
+    "disc": "2003-09-16T00:00:00.000Z",
+    "model": "A1010 (EMC 1931)",
+    "family": "12-Inch",
+    "titles": [
+      "PowerBook G4 867 12&quot; (Al)"
+    ]
+  },
+  {
+    "intro": "2003-01-07T00:00:00.000Z",
+    "disc": "2003-09-16T00:00:00.000Z",
+    "model": "A1013 (EMC N/A)",
+    "family": "17-Inch",
+    "titles": [
+      "PowerBook G4 1.0 17&quot; (Al)"
+    ]
+  },
+  {
+    "intro": "2003-09-16T00:00:00.000Z",
+    "disc": "2004-04-19T00:00:00.000Z",
+    "model": "A1010 (EMC 1986)",
+    "family": "12-Inch DVI",
+    "titles": [
+      "PowerBook G4 1.0 12&quot; (DVI - Al)"
+    ]
+  },
+  {
+    "intro": "2003-09-16T00:00:00.000Z",
+    "disc": "2004-04-19T00:00:00.000Z",
+    "model": "A1046 (EMC 1960)",
+    "family": "15-Inch FW800",
+    "titles": [
+      "PowerBook G4 1.0 15&quot; (FW800 - Al)",
+      "PowerBook G4 1.25 15&quot; (FW800 - Al)"
+    ]
+  },
+  {
+    "intro": "2003-09-16T00:00:00.000Z",
+    "disc": "2004-04-19T00:00:00.000Z",
+    "model": "A1052 (EMC N/A)",
+    "family": "17-Inch 1.33 GHz",
+    "titles": [
+      "PowerBook G4 1.33 17&quot; (Al)"
+    ]
+  },
+  {
+    "intro": "2003-01-28T00:00:00.000Z",
+    "disc": "2003-06-23T00:00:00.000Z",
+    "model": "M8570 (EMC 1914)",
+    "family": "Firewire 800",
+    "titles": [
+      "Power Macintosh G4 1.0 (FW 800)",
+      "Power Macintosh G4 1.25 DP (FW 800)",
+      "Power Macintosh G4 1.42 DP (FW 800)"
+    ]
+  },
+  {
+    "intro": "2003-06-23T00:00:00.000Z",
+    "disc": "2004-06-09T00:00:00.000Z",
+    "model": "M8570 (EMC 1914C)",
+    "family": "Mirrored Drive Doors 2003",
+    "titles": [
+      "Power Macintosh G4 1.25 (MDD 2003)"
+    ]
+  },
+  {
+    "intro": "2003-06-23T00:00:00.000Z",
+    "disc": "2004-06-09T00:00:00.000Z",
+    "model": "A1047 (EMC 1969)",
+    "family": "Power Mac G5",
+    "titles": [
+      "Power Macintosh G5 1.6 (PCI)",
+      "Power Macintosh G5 1.8 (PCI-X)",
+      "Power Macintosh G5 2.0 DP (PCI-X)",
+      "Power Macintosh G5 1.8 DP (PCI-X)"
+    ]
+  },
+  {
+    "intro": "2003-02-10T00:00:00.000Z",
+    "disc": "2004-01-06T00:00:00.000Z",
+    "model": "N/A (EMC 1971)",
+    "family": "Slot Load",
+    "titles": [
+      "Xserve G4/1.33 (Slot Load)",
+      "Xserve G4/1.33 DP (Slot Load)"
+    ]
+  },
+  {
+    "intro": "2003-03-01T00:00:00.000Z",
+    "disc": "2004-01-06T00:00:00.000Z",
+    "model": "N/A (EMC N/A)",
+    "family": "Cluster Node",
+    "titles": [
+      "Xserve G4/1.33 DP Cluster Node"
+    ]
+  },
+  {
+    "intro": "2004-04-13T00:00:00.000Z",
+    "disc": "2005-05-03T00:00:00.000Z",
+    "model": "A1002 (EMC None)",
+    "family": "eMac USB 2.0",
+    "titles": [
+      "eMac G4/1.25 (USB 2.0)"
+    ]
+  },
+  {
+    "intro": "2004-04-19T00:00:00.000Z",
+    "disc": "2004-10-19T00:00:00.000Z",
+    "model": "A1054 (EMC N/A)",
+    "family": "Early 2004",
+    "titles": [
+      "iBook G4/1.0 12-Inch (Early 2004 - Op)",
+      "iBook G4/1.2 12-Inch (Late 2004 - Op)"
+    ]
+  },
+  {
+    "intro": "2004-04-19T00:00:00.000Z",
+    "disc": "2004-10-19T00:00:00.000Z",
+    "model": "A1055 (EMC N/A)",
+    "family": "Early 2004 14-Inch",
+    "titles": [
+      "iBook G4/1.0 14-Inch (Early 2004 - Op)",
+      "iBook G4/1.2 14-Inch (Early 2004 - Op)",
+      "iBook G4/1.33 14-Inch (Late 2004 - Op)"
+    ]
+  },
+  {
+    "intro": "2004-08-31T00:00:00.000Z",
+    "disc": "2005-05-03T00:00:00.000Z",
+    "model": "A1058 (EMC 1989)",
+    "family": "iMac G5",
+    "titles": [
+      "iMac G5 1.6 17&quot;",
+      "iMac G5 1.8 17&quot;"
+    ]
+  },
+  {
+    "intro": "2004-08-31T00:00:00.000Z",
+    "disc": "2005-05-03T00:00:00.000Z",
+    "model": "A1076 (EMC 2008)",
+    "family": "iMac G5",
+    "titles": [
+      "iMac G5 1.8 20&quot;"
+    ]
+  },
+  {
+    "intro": "2004-04-19T00:00:00.000Z",
+    "disc": "2005-01-31T00:00:00.000Z",
+    "model": "A1010 (EMC 1986)",
+    "family": "12-Inch 1.33 GHz",
+    "titles": [
+      "PowerBook G4 1.33 12&quot; (Al)"
+    ]
+  },
+  {
+    "intro": "2004-04-19T00:00:00.000Z",
+    "disc": "2005-01-31T00:00:00.000Z",
+    "model": "A1095 (EMC N/A)",
+    "family": "15-Inch 1.5/1.33",
+    "titles": [
+      "PowerBook G4 1.33 15&quot; (Al)",
+      "PowerBook G4 1.5 15&quot; (Al)"
+    ]
+  },
+  {
+    "intro": "2004-04-19T00:00:00.000Z",
+    "disc": "2005-01-31T00:00:00.000Z",
+    "model": "A1085 (EMC 1983A)",
+    "family": "17-Inch 1.5 GHz",
+    "titles": [
+      "PowerBook G4 1.5 17&quot; (Al)"
+    ]
+  },
+  {
+    "intro": "2004-06-09T00:00:00.000Z",
+    "disc": "2005-04-27T00:00:00.000Z",
+    "model": "A1047 (EMC 1969C)",
+    "family": "Mid-2004",
+    "titles": [
+      "Power Macintosh G5 1.8 DP (PCI)",
+      "Power Macintosh G5 2.0 DP (PCI-X 2)",
+      "Power Macintosh G5 2.5 DP (PCI-X)"
+    ]
+  },
+  {
+    "intro": "2004-10-19T00:00:00.000Z",
+    "disc": "2005-06-13T00:00:00.000Z",
+    "model": "A1093 (EMC 2020)",
+    "family": "Late 2004",
+    "titles": [
+      "Power Macintosh G5 1.8 (PCI)"
+    ]
+  },
+  {
+    "intro": "2004-01-06T00:00:00.000Z",
+    "disc": "2006-08-07T00:00:00.000Z",
+    "model": "A1068 (EMC 1994)",
+    "family": "Xserve G5",
+    "titles": [
+      "Xserve G5/2.0 (PCI-X)",
+      "Xserve G5/2.0 DP (PCI-X)"
+    ]
+  },
+  {
+    "intro": "2004-01-06T00:00:00.000Z",
+    "disc": "2005-01-04T00:00:00.000Z",
+    "model": "N/A (EMC N/A)",
+    "family": "Xserve G5",
+    "titles": [
+      "Xserve G5/2.0 DP Cluster Node (PCI-X)"
+    ]
+  },
+  {
+    "intro": "2005-05-03T00:00:00.000Z",
+    "disc": "2005-10-12T00:00:00.000Z",
+    "model": "A1002 (EMC None)",
+    "family": "eMac 2005",
+    "titles": [
+      "eMac G4/1.42 (2005)"
+    ]
+  },
+  {
+    "intro": "2005-07-26T00:00:00.000Z",
+    "disc": "2006-05-16T00:00:00.000Z",
+    "model": "A1133 (EMC N/A)",
+    "family": "Mid-2005 12-Inch",
+    "titles": [
+      "iBook G4/1.33 12-Inch (Mid-2005 - Op)"
+    ]
+  },
+  {
+    "intro": "2005-07-26T00:00:00.000Z",
+    "disc": "2006-05-16T00:00:00.000Z",
+    "model": "A1134 (EMC N/A)",
+    "family": "Mid-2005 14-Inch",
+    "titles": [
+      "iBook G4/1.42 14-Inch (Mid-2005 - Op)"
+    ]
+  },
+  {
+    "intro": "2005-05-03T00:00:00.000Z",
+    "disc": "2005-10-12T00:00:00.000Z",
+    "model": "A1058 (EMC 2055)",
+    "family": "Ambient Light Sensor",
+    "titles": [
+      "iMac G5 1.8 17&quot; (ALS)",
+      "iMac G5 2.0 17&quot; (ALS)"
+    ]
+  },
+  {
+    "intro": "2005-05-03T00:00:00.000Z",
+    "disc": "2005-10-12T00:00:00.000Z",
+    "model": "A1076 (EMC 2056)",
+    "family": "Ambient Light Sensor",
+    "titles": [
+      "iMac G5 2.0 20&quot; (ALS)"
+    ]
+  },
+  {
+    "intro": "2005-10-12T00:00:00.000Z",
+    "disc": "2006-01-10T00:00:00.000Z",
+    "model": "A1144 (EMC 2081)",
+    "family": "iSight",
+    "titles": [
+      "iMac G5 1.9 17&quot; (iSight)"
+    ]
+  },
+  {
+    "intro": "2005-10-12T00:00:00.000Z",
+    "disc": "2006-01-10T00:00:00.000Z",
+    "model": "A1145 (EMC 2082)",
+    "family": "iSight",
+    "titles": [
+      "iMac G5 2.1 20&quot; (iSight)"
+    ]
+  },
+  {
+    "intro": "2005-01-11T00:00:00.000Z",
+    "disc": "2006-02-28T00:00:00.000Z",
+    "model": "A1103 (EMC 2026)",
+    "family": "Mac mini",
+    "titles": [
+      "Mac mini G4/1.25",
+      "Mac mini G4/1.42"
+    ]
+  },
+  {
+    "intro": "2005-09-27T00:00:00.000Z",
+    "disc": "2006-02-28T00:00:00.000Z",
+    "model": "A1103 (EMC N/A)",
+    "family": "Late 2005",
+    "titles": [
+      "Mac mini G4/1.33",
+      "Mac mini G4/1.5"
+    ]
+  },
+  {
+    "intro": "2005-01-31T00:00:00.000Z",
+    "disc": "2006-05-16T00:00:00.000Z",
+    "model": "A1104 (EMC 2030)",
+    "family": "12-Inch 1.5 GHz",
+    "titles": [
+      "PowerBook G4 1.5 12&quot; (Al)"
+    ]
+  },
+  {
+    "intro": "2005-01-31T00:00:00.000Z",
+    "disc": "2005-10-19T00:00:00.000Z",
+    "model": "A1106 (EMC 2029)",
+    "family": "15-Inch 1.67/1.5",
+    "titles": [
+      "PowerBook G4 1.5 15&quot; (SMS/BT2 - Al)",
+      "PowerBook G4 1.67 15&quot; (Al)"
+    ]
+  },
+  {
+    "intro": "2005-01-31T00:00:00.000Z",
+    "disc": "2005-10-19T00:00:00.000Z",
+    "model": "A1107 (EMC N/A)",
+    "family": "17-Inch 1.67 GHz",
+    "titles": [
+      "PowerBook G4 1.67 17&quot; (Al)"
+    ]
+  },
+  {
+    "intro": "2005-10-19T00:00:00.000Z",
+    "disc": "2006-01-10T00:00:00.000Z",
+    "model": "A1138 (EMC N/A)",
+    "family": "15-Inch DL SD",
+    "titles": [
+      "PowerBook G4 1.67 15&quot; (DLSD/HR - Al)"
+    ]
+  },
+  {
+    "intro": "2005-10-19T00:00:00.000Z",
+    "disc": "2006-04-24T00:00:00.000Z",
+    "model": "A1139 (EMC N/A)",
+    "family": "17-Inch DL SD",
+    "titles": [
+      "PowerBook G4 1.67 17&quot; (DLSD/HR - Al)"
+    ]
+  },
+  {
+    "intro": "2005-04-27T00:00:00.000Z",
+    "disc": "2005-10-19T00:00:00.000Z",
+    "model": "A1047 (EMC 2061)",
+    "family": "Early 2005",
+    "titles": [
+      "Power Macintosh G5 2.0 DP (PCI)",
+      "Power Macintosh G5 2.3 DP (PCI-X)",
+      "Power Macintosh G5 2.7 DP (PCI-X)"
+    ]
+  },
+  {
+    "intro": "2005-10-19T00:00:00.000Z",
+    "disc": "2006-08-07T00:00:00.000Z",
+    "model": "A1117/A1177* (EMC 2023)",
+    "family": "Late 2005",
+    "titles": [
+      "Power Macintosh G5 Dual Core (2.0)",
+      "Power Macintosh G5 Dual Core (2.3)",
+      "Power Macintosh G5 &quot;Quad Core&quot; (2.5)"
+    ]
+  },
+  {
+    "intro": "2005-01-04T00:00:00.000Z",
+    "disc": "2006-08-07T00:00:00.000Z",
+    "model": "A1068 (EMC 1994)",
+    "family": "Early 2005",
+    "titles": [
+      "Xserve G5/2.3 DP (PCI-X)"
+    ]
+  },
+  {
+    "intro": "2005-01-04T00:00:00.000Z",
+    "disc": "2006-08-07T00:00:00.000Z",
+    "model": "N/A (EMC N/A)",
+    "family": "Early 2005",
+    "titles": [
+      "Xserve G5/2.3 DP Cluster Node (PCI-X)"
+    ]
+  },
+  {
+    "intro": "2006-01-10T00:00:00.000Z",
+    "disc": "2006-09-06T00:00:00.000Z",
+    "model": "A1173 (EMC 2104)",
+    "family": "Early 2006",
+    "titles": [
+      "iMac 17-Inch &quot;Core Duo&quot; 1.83"
+    ]
+  },
+  {
+    "intro": "2006-01-10T00:00:00.000Z",
+    "disc": "2006-09-06T00:00:00.000Z",
+    "model": "A1174 (EMC 2105)",
+    "family": "Early 2006",
+    "titles": [
+      "iMac 20-Inch &quot;Core Duo&quot; 2.0"
+    ]
+  },
+  {
+    "intro": "2006-07-05T00:00:00.000Z",
+    "disc": "2006-09-06T00:00:00.000Z",
+    "model": "A1195 (EMC 2110)",
+    "family": "Mid-2006",
+    "titles": [
+      "iMac 17-Inch &quot;Core Duo&quot; 1.83 (IG)"
+    ]
+  },
+  {
+    "intro": "2006-09-06T00:00:00.000Z",
+    "disc": "2007-08-07T00:00:00.000Z",
+    "model": "A1195 (EMC 2124)",
+    "family": "Late 2006 CD",
+    "titles": [
+      "iMac 17-Inch &quot;Core 2 Duo&quot; 1.83 (IG)"
+    ]
+  },
+  {
+    "intro": "2006-09-06T00:00:00.000Z",
+    "disc": "2007-08-07T00:00:00.000Z",
+    "model": "A1208 (EMC 2114)",
+    "family": "Late 2006",
+    "titles": [
+      "iMac 17-Inch &quot;Core 2 Duo&quot; 2.0",
+      "iMac 17-Inch &quot;Core 2 Duo&quot; 2.16"
+    ]
+  },
+  {
+    "intro": "2006-09-06T00:00:00.000Z",
+    "disc": "2007-08-07T00:00:00.000Z",
+    "model": "A1207 (EMC 2118)",
+    "family": "Late 2006",
+    "titles": [
+      "iMac 20-Inch &quot;Core 2 Duo&quot; 2.16",
+      "iMac 20-Inch &quot;Core 2 Duo&quot; 2.33"
+    ]
+  },
+  {
+    "intro": "2006-09-06T00:00:00.000Z",
+    "disc": "2007-08-07T00:00:00.000Z",
+    "model": "A1200 (EMC 2111)",
+    "family": "Late 2006 - 24&quot;",
+    "titles": [
+      "iMac 24-Inch &quot;Core 2 Duo&quot; 2.16",
+      "iMac 24-Inch &quot;Core 2 Duo&quot; 2.33"
+    ]
+  },
+  {
+    "intro": "2006-05-16T00:00:00.000Z",
+    "disc": "2006-11-08T00:00:00.000Z",
+    "model": "A1181 (EMC 2092)",
+    "family": "MacBook",
+    "titles": [
+      "MacBook &quot;Core Duo&quot; 1.83 13&quot;",
+      "MacBook &quot;Core Duo&quot; 2.0 13&quot; (White)",
+      "MacBook &quot;Core Duo&quot; 2.0 13&quot; (Black)"
+    ]
+  },
+  {
+    "intro": "2006-11-08T00:00:00.000Z",
+    "disc": "2007-05-15T00:00:00.000Z",
+    "model": "A1181 (EMC 2121)",
+    "family": "Late 2006",
+    "titles": [
+      "MacBook &quot;Core 2 Duo&quot; 1.83 13&quot;",
+      "MacBook &quot;Core 2 Duo&quot; 2.0 13&quot; (White/06)",
+      "MacBook &quot;Core 2 Duo&quot; 2.0 13&quot; (Black)"
+    ]
+  },
+  {
+    "intro": "2006-01-10T00:00:00.000Z",
+    "disc": "2006-02-14T00:00:00.000Z",
+    "model": "A1150 (EMC 2101)",
+    "family": "MacBook Pro",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core Duo&quot; 1.67",
+      "MacBook Pro 15-Inch &quot;Core Duo&quot; 1.83",
+      "MacBook Pro 15-Inch &quot;Core Duo&quot; 2.0",
+      "MacBook Pro 15-Inch &quot;Core Duo&quot; 2.16"
+    ]
+  },
+  {
+    "intro": "2006-04-24T00:00:00.000Z",
+    "disc": "2006-10-24T00:00:00.000Z",
+    "model": "A1151 (EMC 2102)",
+    "family": "MacBook Pro 17-Inch",
+    "titles": [
+      "MacBook Pro 17-Inch &quot;Core Duo&quot; 2.16"
+    ]
+  },
+  {
+    "intro": "2006-10-24T00:00:00.000Z",
+    "disc": "2007-06-05T00:00:00.000Z",
+    "model": "A1211 (EMC 2120)",
+    "family": "Core 2 Duo/Late 2006",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core 2 Duo&quot; 2.16",
+      "MacBook Pro 15-Inch &quot;Core 2 Duo&quot; 2.33"
+    ]
+  },
+  {
+    "intro": "2006-10-24T00:00:00.000Z",
+    "disc": "2007-06-05T00:00:00.000Z",
+    "model": "A1212 (EMC 2119)",
+    "family": "Core 2 Duo/Late 2006",
+    "titles": [
+      "MacBook Pro 17-Inch &quot;Core 2 Duo&quot; 2.33"
+    ]
+  },
+  {
+    "intro": "2006-02-28T00:00:00.000Z",
+    "disc": "2006-09-06T00:00:00.000Z",
+    "model": "A1176 (EMC 2108)",
+    "family": "Early 2006",
+    "titles": [
+      "Mac mini &quot;Core Solo&quot; 1.5",
+      "Mac mini &quot;Core Duo&quot; 1.66",
+      "Mac mini &quot;Core Duo&quot; 1.83"
+    ]
+  },
+  {
+    "intro": "2006-08-07T00:00:00.000Z",
+    "disc": "2008-01-08T00:00:00.000Z",
+    "model": "A1186 (EMC 2113)",
+    "family": "Mac Pro",
+    "titles": [
+      "Mac Pro &quot;Quad Core&quot; 2.0 (Original)",
+      "Mac Pro &quot;Quad Core&quot; 2.66 (Original)",
+      "Mac Pro &quot;Quad Core&quot; 3.0 (Original)"
+    ]
+  },
+  {
+    "intro": "2006-08-07T00:00:00.000Z",
+    "disc": "2008-01-08T00:00:00.000Z",
+    "model": "A1196 (EMC 2107)",
+    "family": "Late 2006",
+    "titles": [
+      "Xserve Xeon 2.0 &quot;Quad Core&quot; (Late 2006)",
+      "Xserve Xeon 2.66 &quot;Quad Core&quot; (Late 2006)",
+      "Xserve Xeon 3.0 &quot;Quad Core&quot; (Late 2006)"
+    ]
+  },
+  {
+    "intro": "2007-08-07T00:00:00.000Z",
+    "disc": "2008-04-28T00:00:00.000Z",
+    "model": "A1224 (EMC 2133)",
+    "family": "Mid-2007",
+    "titles": [
+      "iMac 20-Inch &quot;Core 2 Duo&quot; 2.0 (Al)",
+      "iMac 20-Inch &quot;Core 2 Duo&quot; 2.4 (Al)"
+    ]
+  },
+  {
+    "intro": "2007-08-07T00:00:00.000Z",
+    "disc": "2008-04-28T00:00:00.000Z",
+    "model": "A1225 (EMC 2134)",
+    "family": "Mid-2007 - 24&quot;",
+    "titles": [
+      "iMac 24-Inch &quot;Core 2 Duo&quot; 2.4 (Al)",
+      "iMac 24-Inch &quot;Core 2 Extreme&quot; 2.8 (Al)"
+    ]
+  },
+  {
+    "intro": "2007-05-15T00:00:00.000Z",
+    "disc": "2007-11-01T00:00:00.000Z",
+    "model": "A1181 (EMC 2139)",
+    "family": "Mid-2007",
+    "titles": [
+      "MacBook &quot;Core 2 Duo&quot; 2.0 13&quot; (White/07)",
+      "MacBook &quot;Core 2 Duo&quot; 2.16 13&quot; (White)",
+      "MacBook &quot;Core 2 Duo&quot; 2.16 13&quot; (Black)"
+    ]
+  },
+  {
+    "intro": "2007-11-01T00:00:00.000Z",
+    "disc": "2008-02-26T00:00:00.000Z",
+    "model": "A1181 (EMC 2200)",
+    "family": "Late 2007",
+    "titles": [
+      "MacBook &quot;Core 2 Duo&quot; 2.0 13&quot; (White-SR)",
+      "MacBook &quot;Core 2 Duo&quot; 2.2 13&quot; (White-SR)",
+      "MacBook &quot;Core 2 Duo&quot; 2.2 13&quot; (Black-SR)"
+    ]
+  },
+  {
+    "intro": "2007-06-05T00:00:00.000Z",
+    "disc": "2008-02-26T00:00:00.000Z",
+    "model": "A1226 (EMC 2136)",
+    "family": "Mid/Late 2007, 2.4/2.2GHz*",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core 2 Duo&quot; 2.2 (SR)",
+      "MacBook Pro 15-Inch &quot;Core 2 Duo&quot; 2.4 (SR)",
+      "MacBook Pro 15-Inch &quot;Core 2 Duo&quot; 2.6 (SR)"
+    ]
+  },
+  {
+    "intro": "2007-06-05T00:00:00.000Z",
+    "disc": "2008-02-26T00:00:00.000Z",
+    "model": "A1229 (EMC 2137)",
+    "family": "Mid/Late 2007, 2.4GHz*",
+    "titles": [
+      "MacBook Pro 17-Inch &quot;Core 2 Duo&quot; 2.4 (SR)",
+      "MacBook Pro 17-Inch &quot;Core 2 Duo&quot; 2.6 (SR)"
+    ]
+  },
+  {
+    "intro": "2007-08-07T00:00:00.000Z",
+    "disc": "2009-03-03T00:00:00.000Z",
+    "model": "A1176 (EMC 2108)",
+    "family": "Mid-2007",
+    "titles": [
+      "Mac mini &quot;Core 2 Duo&quot; 1.83",
+      "Mac mini &quot;Core 2 Duo&quot; 2.0"
+    ]
+  },
+  {
+    "intro": "2007-04-04T00:00:00.000Z",
+    "disc": "2008-01-08T00:00:00.000Z",
+    "model": "A1186 (EMC 2138)",
+    "family": "Mac Pro",
+    "titles": [
+      "Mac Pro &quot;Eight Core&quot; 3.0 (2,1)"
+    ]
+  },
+  {
+    "intro": "2008-04-28T00:00:00.000Z",
+    "disc": "2009-03-03T00:00:00.000Z",
+    "model": "A1224 (EMC 2210)",
+    "family": "Early 2008",
+    "titles": [
+      "iMac 20-Inch &quot;Core 2 Duo&quot; 2.4 (Early 2008)",
+      "iMac 20-Inch &quot;Core 2 Duo&quot; 2.66 (Early 2008)"
+    ]
+  },
+  {
+    "intro": "2008-04-28T00:00:00.000Z",
+    "disc": "2009-03-03T00:00:00.000Z",
+    "model": "A1225 (EMC 2211)",
+    "family": "Early 2008",
+    "titles": [
+      "iMac 24-Inch &quot;Core 2 Duo&quot; 2.8 (Early 2008)",
+      "iMac 24-Inch &quot;Core 2 Duo&quot; 3.06 (Early 2008)"
+    ]
+  },
+  {
+    "intro": "2008-02-26T00:00:00.000Z",
+    "disc": "2009-01-20T00:00:00.000Z",
+    "model": "A1181 (EMC 2242)",
+    "family": "Early 2008",
+    "titles": [
+      "MacBook &quot;Core 2 Duo&quot; 2.1 13&quot; (White-08)",
+      "MacBook &quot;Core 2 Duo&quot; 2.4 13&quot; (White-08)",
+      "MacBook &quot;Core 2 Duo&quot; 2.4 13&quot; (Black-08)"
+    ]
+  },
+  {
+    "intro": "2008-10-14T00:00:00.000Z",
+    "disc": "2009-06-08T00:00:00.000Z",
+    "model": "A1278 (EMC 2254)",
+    "family": "Late 2008 Aluminum",
+    "titles": [
+      "MacBook &quot;Core 2 Duo&quot; 2.0 13&quot; (Unibody)",
+      "MacBook &quot;Core 2 Duo&quot; 2.4 13&quot; (Unibody)"
+    ]
+  },
+  {
+    "intro": "2008-01-15T00:00:00.000Z",
+    "disc": "2008-10-14T00:00:00.000Z",
+    "model": "A1237 (EMC 2142*)",
+    "family": "MacBook Air - Original",
+    "titles": [
+      "MacBook Air &quot;Core 2 Duo&quot; 1.6 13&quot; (Original)",
+      "MacBook Air &quot;Core 2 Duo&quot; 1.8 13&quot; (Original)"
+    ]
+  },
+  {
+    "intro": "2008-10-14T00:00:00.000Z",
+    "disc": "2009-06-08T00:00:00.000Z",
+    "model": "A1304 (EMC 2253*)",
+    "family": "Late 2008",
+    "titles": [
+      "MacBook Air &quot;Core 2 Duo&quot; 1.6 13&quot; (NVIDIA)",
+      "MacBook Air &quot;Core 2 Duo&quot; 1.86 13&quot; (NVIDIA)"
+    ]
+  },
+  {
+    "intro": "2008-02-26T00:00:00.000Z",
+    "disc": "2008-10-14T00:00:00.000Z",
+    "model": "A1260 (EMC 2198)",
+    "family": "Early 2008",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core 2 Duo&quot; 2.4 (08)",
+      "MacBook Pro 15-Inch &quot;Core 2 Duo&quot; 2.5 (08)",
+      "MacBook Pro 15-Inch &quot;Core 2 Duo&quot; 2.6 (08)"
+    ]
+  },
+  {
+    "intro": "2008-02-26T00:00:00.000Z",
+    "disc": "2009-01-06T00:00:00.000Z",
+    "model": "A1261 (EMC 2199)",
+    "family": "Early/Late 2008",
+    "titles": [
+      "MacBook Pro 17-Inch &quot;Core 2 Duo&quot; 2.5 (08)",
+      "MacBook Pro 17-Inch &quot;Core 2 Duo&quot; 2.6 (08)"
+    ]
+  },
+  {
+    "intro": "2008-10-14T00:00:00.000Z",
+    "disc": "2009-06-08T00:00:00.000Z",
+    "model": "A1286 (EMC 2255)",
+    "family": "Late 2008",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core 2 Duo&quot; 2.4 (Unibody)",
+      "MacBook Pro 15-Inch &quot;Core 2 Duo&quot; 2.53 (Unibody)",
+      "MacBook Pro 15-Inch &quot;Core 2 Duo&quot; 2.8 (Unibody)"
+    ]
+  },
+  {
+    "intro": "2008-01-08T00:00:00.000Z",
+    "disc": "2009-03-03T00:00:00.000Z",
+    "model": "A1186 (EMC 2180)",
+    "family": "Early 2008",
+    "titles": [
+      "Mac Pro &quot;Quad Core&quot; 2.8 (2008)",
+      "Mac Pro &quot;Eight Core&quot; 2.8 (2008)",
+      "Mac Pro &quot;Eight Core&quot; 3.0 (2008)",
+      "Mac Pro &quot;Eight Core&quot; 3.2 (2008)"
+    ]
+  },
+  {
+    "intro": "2008-01-08T00:00:00.000Z",
+    "disc": "2009-04-07T00:00:00.000Z",
+    "model": "A1246 (EMC 2186)",
+    "family": "Early 2008",
+    "titles": [
+      "Xserve Xeon 2.8 &quot;Quad Core&quot; (Early 2008)",
+      "Xserve Xeon 2.8 &quot;Eight Core&quot; (Early 2008)",
+      "Xserve Xeon 3.0 &quot;Eight Core&quot; (Early 2008)"
+    ]
+  },
+  {
+    "intro": "2009-03-03T00:00:00.000Z",
+    "disc": "2009-10-20T00:00:00.000Z",
+    "model": "A1224 (EMC 2266)",
+    "family": "Early 2009",
+    "titles": [
+      "iMac 20-Inch &quot;Core 2 Duo&quot; 2.66 (Early 2009)",
+      "iMac 20-Inch &quot;Core 2 Duo&quot; 2.0 (Mid-2009)"
+    ]
+  },
+  {
+    "intro": "2009-03-03T00:00:00.000Z",
+    "disc": "2009-10-20T00:00:00.000Z",
+    "model": "A1225 (EMC 2267)",
+    "family": "Early 2009",
+    "titles": [
+      "iMac 24-Inch &quot;Core 2 Duo&quot; 2.66 (Early 2009)",
+      "iMac 24-Inch &quot;Core 2 Duo&quot; 2.93 (Early 2009)"
+    ]
+  },
+  {
+    "intro": "2009-03-03T00:00:00.000Z",
+    "disc": "2009-10-20T00:00:00.000Z",
+    "model": "A1225 (EMC 2267/2134*)",
+    "family": "Early 2009",
+    "titles": [
+      "iMac 24-Inch &quot;Core 2 Duo&quot; 3.06 (Early 2009)"
+    ]
+  },
+  {
+    "intro": "2009-10-20T00:00:00.000Z",
+    "disc": "2010-07-27T00:00:00.000Z",
+    "model": "A1311 (EMC 2308)",
+    "family": "Late 2009",
+    "titles": [
+      "iMac 21.5-Inch &quot;Core 2 Duo&quot; 3.06 (Late 2009)",
+      "iMac 21.5-Inch &quot;Core 2 Duo&quot; 3.33 (Late 2009)"
+    ]
+  },
+  {
+    "intro": "2009-10-20T00:00:00.000Z",
+    "disc": "2010-07-27T00:00:00.000Z",
+    "model": "A1312 (EMC 2309)",
+    "family": "Late 2009",
+    "titles": [
+      "iMac 27-Inch &quot;Core 2 Duo&quot; 3.06 (Late 2009)",
+      "iMac 27-Inch &quot;Core 2 Duo&quot; 3.33 (Late 2009)"
+    ]
+  },
+  {
+    "intro": "2009-10-20T00:00:00.000Z",
+    "disc": "2010-07-27T00:00:00.000Z",
+    "model": "A1312 (EMC 2374)",
+    "family": "Late 2009",
+    "titles": [
+      "iMac 27-Inch &quot;Core i5&quot; 2.66 (Late 2009)",
+      "iMac 27-Inch &quot;Core i7&quot; 2.8 (Late 2009)"
+    ]
+  },
+  {
+    "intro": "2009-01-20T00:00:00.000Z",
+    "disc": "2009-05-27T00:00:00.000Z",
+    "model": "A1181 (EMC 2300)",
+    "family": "Early 2009",
+    "titles": [
+      "MacBook &quot;Core 2 Duo&quot; 2.0 13&quot; (White-09)"
+    ]
+  },
+  {
+    "intro": "2009-05-27T00:00:00.000Z",
+    "disc": "2009-10-20T00:00:00.000Z",
+    "model": "A1181 (EMC 2330)",
+    "family": "Mid-2009",
+    "titles": [
+      "MacBook &quot;Core 2 Duo&quot; 2.13 13&quot; (White-09)"
+    ]
+  },
+  {
+    "intro": "2009-10-20T00:00:00.000Z",
+    "disc": "2010-05-18T00:00:00.000Z",
+    "model": "A1342 (EMC 2350*)",
+    "family": "Late 2009",
+    "titles": [
+      "MacBook &quot;Core 2 Duo&quot; 2.26 13&quot; (Uni/Late 09)"
+    ]
+  },
+  {
+    "intro": "2009-06-08T00:00:00.000Z",
+    "disc": "2010-10-20T00:00:00.000Z",
+    "model": "A1304 (EMC 2334*)",
+    "family": "Mid-2009",
+    "titles": [
+      "MacBook Air &quot;Core 2 Duo&quot; 1.86 13&quot; (Mid-09)",
+      "MacBook Air &quot;Core 2 Duo&quot; 2.13 13&quot; (Mid-09)"
+    ]
+  },
+  {
+    "intro": "2009-01-06T00:00:00.000Z",
+    "disc": "2009-06-08T00:00:00.000Z",
+    "model": "A1297 (EMC 2272)",
+    "family": "Early 2009",
+    "titles": [
+      "MacBook Pro 17-Inch &quot;Core 2 Duo&quot; 2.66 (Unibody)",
+      "MacBook Pro 17-Inch &quot;Core 2 Duo&quot; 2.93 (Unibody)"
+    ]
+  },
+  {
+    "intro": "2009-03-03T00:00:00.000Z",
+    "disc": "2009-06-08T00:00:00.000Z",
+    "model": "A1286 (EMC 2255)",
+    "family": "Late 2008/Early 2009*",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core 2 Duo&quot; 2.66 (Unibody)",
+      "MacBook Pro 15-Inch &quot;Core 2 Duo&quot; 2.93 (Unibody)"
+    ]
+  },
+  {
+    "intro": "2009-06-08T00:00:00.000Z",
+    "disc": "2010-04-13T00:00:00.000Z",
+    "model": "A1278 (EMC 2326*)",
+    "family": "Mid-2009 13&quot;",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core 2 Duo&quot; 2.26 (SD/FW)",
+      "MacBook Pro 13-Inch &quot;Core 2 Duo&quot; 2.53 (SD/FW)"
+    ]
+  },
+  {
+    "intro": "2009-06-08T00:00:00.000Z",
+    "disc": "2010-04-13T00:00:00.000Z",
+    "model": "A1286 (EMC 2324*)",
+    "family": "Mid-2009 15&quot;",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core 2 Duo&quot; 2.53 (SD)"
+    ]
+  },
+  {
+    "intro": "2009-06-08T00:00:00.000Z",
+    "disc": "2010-04-13T00:00:00.000Z",
+    "model": "A1286 (EMC 2325*)",
+    "family": "Mid-2009 15&quot;",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core 2 Duo&quot; 2.66 (SD)",
+      "MacBook Pro 15-Inch &quot;Core 2 Duo&quot; 2.8 (SD)",
+      "MacBook Pro 15-Inch &quot;Core 2 Duo&quot; 3.06 (SD)"
+    ]
+  },
+  {
+    "intro": "2009-06-08T00:00:00.000Z",
+    "disc": "2010-04-13T00:00:00.000Z",
+    "model": "A1297 (EMC 2329*)",
+    "family": "Mid-2009 17&quot;",
+    "titles": [
+      "MacBook Pro 17-Inch &quot;Core 2 Duo&quot; 2.8 Mid-2009",
+      "MacBook Pro 17-Inch &quot;Core 2 Duo&quot; 3.06 Mid-2009"
+    ]
+  },
+  {
+    "intro": "2009-03-03T00:00:00.000Z",
+    "disc": "2009-10-20T00:00:00.000Z",
+    "model": "A1283 (EMC 2264)",
+    "family": "Early 2009",
+    "titles": [
+      "Mac mini &quot;Core 2 Duo&quot; 2.0 (Early 2009)",
+      "Mac mini &quot;Core 2 Duo&quot; 2.26 (Early 2009)"
+    ]
+  },
+  {
+    "intro": "2009-10-20T00:00:00.000Z",
+    "disc": "2010-06-15T00:00:00.000Z",
+    "model": "A1283 (EMC 2336)",
+    "family": "Late 2009",
+    "titles": [
+      "Mac mini &quot;Core 2 Duo&quot; 2.26 (Late 2009)",
+      "Mac mini &quot;Core 2 Duo&quot; 2.53 (Late 2009)",
+      "Mac mini &quot;Core 2 Duo&quot; 2.66 (Late 2009)",
+      "Mac mini &quot;Core 2 Duo&quot; 2.53 (Server)"
+    ]
+  },
+  {
+    "intro": "2009-03-03T00:00:00.000Z",
+    "disc": "2010-07-27T00:00:00.000Z",
+    "model": "A1289 (EMC 2314)",
+    "family": "Early 2009",
+    "titles": [
+      "Mac Pro &quot;Quad Core&quot; 2.66 (2009/Nehalem)",
+      "Mac Pro &quot;Quad Core&quot; 2.93 (2009/Nehalem)",
+      "Mac Pro &quot;Quad Core&quot; 3.33 (2009/Nehalem)",
+      "Mac Pro &quot;Eight Core&quot; 2.26 (2009/Nehalem)",
+      "Mac Pro &quot;Eight Core&quot; 2.66 (2009/Nehalem)",
+      "Mac Pro &quot;Eight Core&quot; 2.93 (2009/Nehalem)"
+    ]
+  },
+  {
+    "intro": "2009-04-07T00:00:00.000Z",
+    "disc": "2011-01-31T00:00:00.000Z",
+    "model": "A1279 (EMC 2279)",
+    "family": "Early 2009",
+    "titles": [
+      "Xserve Xeon Nehalem 2.26 &quot;Quad Core&quot;",
+      "Xserve Xeon Nehalem 2.26 &quot;Eight Core&quot;",
+      "Xserve Xeon Nehalem 2.66 &quot;Eight Core&quot;",
+      "Xserve Xeon Nehalem 2.93 &quot;Eight Core&quot;"
+    ]
+  },
+  {
+    "intro": "2010-03-04T00:00:00.000Z",
+    "disc": "2012-03-07T00:00:00.000Z",
+    "model": "A1224 (EMC 2316)",
+    "family": "Mid-2009 (Edu)",
+    "titles": [
+      "iMac 20-Inch &quot;Core 2 Duo&quot; 2.26 (Mid-2009)"
+    ]
+  },
+  {
+    "intro": "2010-07-27T00:00:00.000Z",
+    "disc": "2011-05-03T00:00:00.000Z",
+    "model": "A1311 (EMC 2389)",
+    "family": "Mid-2010",
+    "titles": [
+      "iMac 21.5-Inch &quot;Core i3&quot; 3.06 (Mid-2010)",
+      "iMac 21.5-Inch &quot;Core i3&quot; 3.2 (Mid-2010)",
+      "iMac 21.5-Inch &quot;Core i5&quot; 3.6 (Mid-2010)"
+    ]
+  },
+  {
+    "intro": "2010-07-27T00:00:00.000Z",
+    "disc": "2011-05-03T00:00:00.000Z",
+    "model": "A1312 (EMC 2390)",
+    "family": "Mid-2010",
+    "titles": [
+      "iMac 27-Inch &quot;Core i3&quot; 3.2 (Mid-2010)",
+      "iMac 27-Inch &quot;Core i5&quot; 2.8 (Mid-2010)",
+      "iMac 27-Inch &quot;Core i5&quot; 3.6 (Mid-2010)",
+      "iMac 27-Inch &quot;Core i7&quot; 2.93 (Mid-2010)"
+    ]
+  },
+  {
+    "intro": "2010-05-18T00:00:00.000Z",
+    "disc": "2012-02-08T00:00:00.000Z",
+    "model": "A1342 (EMC 2395*)",
+    "family": "Mid-2010",
+    "titles": [
+      "MacBook &quot;Core 2 Duo&quot; 2.4 13&quot; (Mid-2010)"
+    ]
+  },
+  {
+    "intro": "2010-10-20T00:00:00.000Z",
+    "disc": "2011-07-20T00:00:00.000Z",
+    "model": "A1370 (EMC 2393)",
+    "family": "Late 2010",
+    "titles": [
+      "MacBook Air &quot;Core 2 Duo&quot; 1.4 11&quot; (Late '10)",
+      "MacBook Air &quot;Core 2 Duo&quot; 1.6 11&quot; (Late '10)"
+    ]
+  },
+  {
+    "intro": "2010-10-20T00:00:00.000Z",
+    "disc": "2011-07-20T00:00:00.000Z",
+    "model": "A1369 (EMC 2392)",
+    "family": "Late 2010",
+    "titles": [
+      "MacBook Air &quot;Core 2 Duo&quot; 1.86 13&quot; (Late '10)",
+      "MacBook Air &quot;Core 2 Duo&quot; 2.13 13&quot; (Late '10)"
+    ]
+  },
+  {
+    "intro": "2010-04-13T00:00:00.000Z",
+    "disc": "2011-02-24T00:00:00.000Z",
+    "model": "A1278 (EMC 2351*)",
+    "family": "Mid-2010 13&quot;",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core 2 Duo&quot; 2.4 Mid-2010",
+      "MacBook Pro 13-Inch &quot;Core 2 Duo&quot; 2.66 Mid-2010"
+    ]
+  },
+  {
+    "intro": "2010-04-13T00:00:00.000Z",
+    "disc": "2011-02-24T00:00:00.000Z",
+    "model": "A1286 (EMC 2353*)",
+    "family": "Mid-2010 15&quot;",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core i5&quot; 2.4 Mid-2010",
+      "MacBook Pro 15-Inch &quot;Core i5&quot; 2.53 Mid-2010",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.66 Mid-2010",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.8 Mid-2010"
+    ]
+  },
+  {
+    "intro": "2010-04-13T00:00:00.000Z",
+    "disc": "2011-02-24T00:00:00.000Z",
+    "model": "A1297 (EMC 2352*)",
+    "family": "Mid-2010 17&quot;",
+    "titles": [
+      "MacBook Pro 17-Inch &quot;Core i5&quot; 2.53 Mid-2010",
+      "MacBook Pro 17-Inch &quot;Core i7&quot; 2.66 Mid-2010",
+      "MacBook Pro 17-Inch &quot;Core i7&quot; 2.8 Mid-2010"
+    ]
+  },
+  {
+    "intro": "2010-06-15T00:00:00.000Z",
+    "disc": "2011-07-20T00:00:00.000Z",
+    "model": "A1347 (EMC 2364)",
+    "family": "Mid-2010",
+    "titles": [
+      "Mac mini &quot;Core 2 Duo&quot; 2.4 (Mid-2010)",
+      "Mac mini &quot;Core 2 Duo&quot; 2.66 (Mid-2010)",
+      "Mac mini &quot;Core 2 Duo&quot; 2.66 (Server)"
+    ]
+  },
+  {
+    "intro": "2010-07-27T00:00:00.000Z",
+    "disc": "2012-06-11T00:00:00.000Z",
+    "model": "A1289 (EMC 2314-2*)",
+    "family": "Mid-2010",
+    "titles": [
+      "Mac Pro &quot;Quad Core&quot; 2.8 (2010/Nehalem)",
+      "Mac Pro &quot;Quad Core&quot; 3.2 (2010/Nehalem)",
+      "Mac Pro &quot;Six Core&quot; 3.33 (2010/Westmere)",
+      "Mac Pro &quot;Eight Core&quot; 2.4 (2010/Westmere)",
+      "Mac Pro &quot;Twelve Core&quot; 2.66 (2010/Westmere)",
+      "Mac Pro &quot;Twelve Core&quot; 2.93 (2010/Westmere)"
+    ]
+  },
+  {
+    "intro": "2010-11-05T00:00:00.000Z",
+    "disc": "2012-06-11T00:00:00.000Z",
+    "model": "A1289 (EMC 2314-2)",
+    "family": "Server Mid-2010",
+    "titles": [
+      "Mac Pro &quot;Quad Core&quot; 2.8 (Server 2010)",
+      "Mac Pro &quot;Quad Core&quot; 3.2 (Server 2010)",
+      "Mac Pro &quot;Six Core&quot; 3.33 (Server 2010)",
+      "Mac Pro &quot;Eight Core&quot; 2.4 (Server 2010)",
+      "Mac Pro &quot;Twelve Core&quot; 2.66 (Server 2010)",
+      "Mac Pro &quot;Twelve Core&quot; 2.93 (Server 2010)"
+    ]
+  },
+  {
+    "intro": "2011-05-03T00:00:00.000Z",
+    "disc": "2012-10-23T00:00:00.000Z",
+    "model": "A1311 (EMC 2428)",
+    "family": "Mid-2011",
+    "titles": [
+      "iMac 21.5-Inch &quot;Core i5&quot; 2.5 (Mid-2011)",
+      "iMac 21.5-Inch &quot;Core i5&quot; 2.7 (Mid-2011)",
+      "iMac 21.5-Inch &quot;Core i7&quot; 2.8 (Mid-2011)"
+    ]
+  },
+  {
+    "intro": "2011-05-03T00:00:00.000Z",
+    "disc": "2012-10-23T00:00:00.000Z",
+    "model": "A1312 (EMC 2429)",
+    "family": "Mid-2011",
+    "titles": [
+      "iMac 27-Inch &quot;Core i5&quot; 2.7 (Mid-2011)",
+      "iMac 27-Inch &quot;Core i5&quot; 3.1 (Mid-2011)",
+      "iMac 27-Inch &quot;Core i7&quot; 3.4 (Mid-2011)"
+    ]
+  },
+  {
+    "intro": "2011-08-08T00:00:00.000Z",
+    "disc": "2013-03-05T00:00:00.000Z",
+    "model": "A1311 (EMC 2496)",
+    "family": "Late 2011 (Edu)",
+    "titles": [
+      "iMac 21.5-Inch &quot;Core i3&quot; 3.1 (Late 2011)"
+    ]
+  },
+  {
+    "intro": "2011-07-20T00:00:00.000Z",
+    "disc": "2012-06-11T00:00:00.000Z",
+    "model": "A1370 (EMC 2471)",
+    "family": "Mid-2011",
+    "titles": [
+      "MacBook Air &quot;Core i5&quot; 1.6 11&quot; (Mid-2011)",
+      "MacBook Air &quot;Core i7&quot; 1.8 11&quot; (Mid-2011)"
+    ]
+  },
+  {
+    "intro": "2011-07-20T00:00:00.000Z",
+    "disc": "2012-06-11T00:00:00.000Z",
+    "model": "A1369 (EMC 2469)",
+    "family": "Mid-2011",
+    "titles": [
+      "MacBook Air &quot;Core i5&quot; 1.7 13&quot; (Mid-2011)",
+      "MacBook Air &quot;Core i7&quot; 1.8 13&quot; (Mid-2011)"
+    ]
+  },
+  {
+    "intro": "2011-02-24T00:00:00.000Z",
+    "disc": "2011-10-24T00:00:00.000Z",
+    "model": "A1278 (EMC 2419*)",
+    "family": "Early 2011 13&quot;",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 2.3 Early 2011",
+      "MacBook Pro 13-Inch &quot;Core i7&quot; 2.7 Early 2011"
+    ]
+  },
+  {
+    "intro": "2011-02-24T00:00:00.000Z",
+    "disc": "2011-10-24T00:00:00.000Z",
+    "model": "A1286 (EMC 2353-1*)",
+    "family": "Early 2011 15&quot;",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.0 Early 2011",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.2 Early 2011",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.3 Early 2011"
+    ]
+  },
+  {
+    "intro": "2011-02-24T00:00:00.000Z",
+    "disc": "2011-10-24T00:00:00.000Z",
+    "model": "A1297 (EMC 2352-1*)",
+    "family": "Early 2011 17&quot;",
+    "titles": [
+      "MacBook Pro 17-Inch &quot;Core i7&quot; 2.2 Early 2011",
+      "MacBook Pro 17-Inch &quot;Core i7&quot; 2.3 Early 2011"
+    ]
+  },
+  {
+    "intro": "2011-10-24T00:00:00.000Z",
+    "disc": "2012-06-11T00:00:00.000Z",
+    "model": "A1278 (EMC 2555*)",
+    "family": "Late 2011 13&quot;",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 2.4 Late 2011",
+      "MacBook Pro 13-Inch &quot;Core i7&quot; 2.8 Late 2011"
+    ]
+  },
+  {
+    "intro": "2011-10-24T00:00:00.000Z",
+    "disc": "2012-06-11T00:00:00.000Z",
+    "model": "A1286 (EMC 2563*)",
+    "family": "Late 2011 15&quot;",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.2 Late 2011",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.4 Late 2011",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.5 Late 2011"
+    ]
+  },
+  {
+    "intro": "2011-10-24T00:00:00.000Z",
+    "disc": "2012-06-11T00:00:00.000Z",
+    "model": "A1297 (EMC 2564*)",
+    "family": "Late 2011 17&quot;",
+    "titles": [
+      "MacBook Pro 17-Inch &quot;Core i7&quot; 2.4 Late 2011",
+      "MacBook Pro 17-Inch &quot;Core i7&quot; 2.5 Late 2011"
+    ]
+  },
+  {
+    "intro": "2011-07-20T00:00:00.000Z",
+    "disc": "2012-10-23T00:00:00.000Z",
+    "model": "A1347 (EMC 2442)",
+    "family": "Mid-2011",
+    "titles": [
+      "Mac mini &quot;Core i5&quot; 2.3 (Mid-2011)",
+      "Mac mini &quot;Core i5&quot; 2.5 (Mid-2011)",
+      "Mac mini &quot;Core i7&quot; 2.7 (Mid-2011)",
+      "Mac mini &quot;Core i7&quot; 2.0 (Mid-2011/Server)"
+    ]
+  },
+  {
+    "intro": "2012-10-23T00:00:00.000Z",
+    "disc": "2013-09-24T00:00:00.000Z",
+    "model": "A1418 (EMC 2544)",
+    "family": "Late 2012",
+    "titles": [
+      "iMac 21.5-Inch &quot;Core i5&quot; 2.7 (Late 2012)",
+      "iMac 21.5-Inch &quot;Core i5&quot; 2.9 (Late 2012)",
+      "iMac 21.5-Inch &quot;Core i7&quot; 3.1 (Late 2012)"
+    ]
+  },
+  {
+    "intro": "2012-10-23T00:00:00.000Z",
+    "disc": "2013-09-24T00:00:00.000Z",
+    "model": "A1419 (EMC 2546)",
+    "family": "Late 2012",
+    "titles": [
+      "iMac 27-Inch &quot;Core i5&quot; 2.9 (Late 2012)",
+      "iMac 27-Inch &quot;Core i5&quot; 3.2 (Late 2012)",
+      "iMac 27-Inch &quot;Core i7&quot; 3.4 (Late 2012)"
+    ]
+  },
+  {
+    "intro": "2012-02-10T00:00:00.000Z",
+    "disc": "2012-06-11T00:00:00.000Z",
+    "model": "A1369 (EMC 2469)",
+    "family": "Mid-2011/Edu Only**",
+    "titles": [
+      "MacBook Air &quot;Core i5&quot; 1.6 13&quot; (Edu Only)"
+    ]
+  },
+  {
+    "intro": "2012-06-11T00:00:00.000Z",
+    "disc": "2013-06-10T00:00:00.000Z",
+    "model": "A1465 (EMC 2558)",
+    "family": "Mid-2012",
+    "titles": [
+      "MacBook Air &quot;Core i5&quot; 1.7 11&quot; (Mid-2012)",
+      "MacBook Air &quot;Core i7&quot; 2.0 11&quot; (Mid-2012)"
+    ]
+  },
+  {
+    "intro": "2012-09-12T00:00:00.000Z",
+    "disc": "2013-02-13T00:00:00.000Z",
+    "model": "A1466 (EMC 2559)",
+    "family": "Mid-2012/Edu Only**",
+    "titles": [
+      "MacBook Air &quot;Core i5&quot; 1.7 13&quot; (Edu Only)",
+      "MacBook Air &quot;Core i5&quot; 1.8 13&quot; (Mid-2012)",
+      "MacBook Air &quot;Core i7&quot; 2.0 13&quot; (Mid-2012)"
+    ]
+  },
+  {
+    "intro": "2012-06-11T00:00:00.000Z",
+    "disc": "2016-10-27T00:00:00.000Z",
+    "model": "A1278 (EMC 2554*)",
+    "family": "Mid-2012 13&quot;",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 2.5 Mid-2012",
+      "MacBook Pro 13-Inch &quot;Core i7&quot; 2.9 Mid-2012"
+    ]
+  },
+  {
+    "intro": "2012-06-11T00:00:00.000Z",
+    "disc": "2013-10-22T00:00:00.000Z",
+    "model": "A1286 (EMC 2556*)",
+    "family": "Mid-2012 15&quot;",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.3 Mid-2012",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.6 Mid-2012",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.7 Mid-2012"
+    ]
+  },
+  {
+    "intro": "2012-06-11T00:00:00.000Z",
+    "disc": "2013-02-13T00:00:00.000Z",
+    "model": "A1398 (EMC 2512)",
+    "family": "Retina Mid-2012",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.3 Retina 2012",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.6 Retina 2012",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.7 Retina 2012"
+    ]
+  },
+  {
+    "intro": "2012-10-23T00:00:00.000Z",
+    "disc": "2013-10-22T00:00:00.000Z",
+    "model": "A1425 (EMC 2557)",
+    "family": "Retina Late 2012",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 2.5 Retina 2012",
+      "MacBook Pro 13-Inch &quot;Core i7&quot; 2.9 Retina 2012"
+    ]
+  },
+  {
+    "intro": "2012-10-23T00:00:00.000Z",
+    "disc": "2014-10-16T00:00:00.000Z",
+    "model": "A1347 (EMC 2570)",
+    "family": "Late 2012",
+    "titles": [
+      "Mac mini &quot;Core i5&quot; 2.5 (Late 2012)",
+      "Mac mini &quot;Core i7&quot; 2.3 (Late 2012)",
+      "Mac mini &quot;Core i7&quot; 2.6 (Late 2012)",
+      "Mac mini &quot;Core i7&quot; 2.3 (Late 2012/Server)",
+      "Mac mini &quot;Core i7&quot; 2.6 (Late 2012/Server)"
+    ]
+  },
+  {
+    "intro": "2012-06-11T00:00:00.000Z",
+    "disc": "2013-10-22T00:00:00.000Z",
+    "model": "A1289 (EMC 2629)",
+    "family": "Mid-2012",
+    "titles": [
+      "Mac Pro &quot;Quad Core&quot; 3.2 (2012/Nehalem)",
+      "Mac Pro &quot;Six Core&quot; 3.33 (2012/Westmere)",
+      "Mac Pro &quot;Twelve Core&quot; 2.4 (2012/Westmere)",
+      "Mac Pro &quot;Twelve Core&quot; 2.66 (2012/Westmere)",
+      "Mac Pro &quot;Twelve Core&quot; 3.06 (2012/Westmere)",
+      "Mac Pro &quot;Quad Core&quot; 3.2 (Server 2012)",
+      "Mac Pro &quot;Six Core&quot; 3.33 (Server 2012)",
+      "Mac Pro &quot;Twelve Core&quot; 2.4 (Server 2012)",
+      "Mac Pro &quot;Twelve Core&quot; 2.66 (Server 2012)",
+      "Mac Pro &quot;Twelve Core&quot; 3.06 (Server 2012)"
+    ]
+  },
+  {
+    "intro": "2013-03-05T00:00:00.000Z",
+    "disc": "2014-06-18T00:00:00.000Z",
+    "model": "A1418 (EMC 2545)",
+    "family": "Early 2013 (Edu)",
+    "titles": [
+      "iMac 21.5-Inch &quot;Core i3&quot; 3.3 (Early 2013)"
+    ]
+  },
+  {
+    "intro": "2013-09-24T00:00:00.000Z",
+    "disc": "2015-10-13T00:00:00.000Z",
+    "model": "A1418 (EMC 2638)",
+    "family": "Late 2013",
+    "titles": [
+      "iMac 21.5-Inch &quot;Core i5&quot; 2.7 (Late 2013)"
+    ]
+  },
+  {
+    "intro": "2013-09-24T00:00:00.000Z",
+    "disc": "2015-10-13T00:00:00.000Z",
+    "model": "A1418 (EMC 2742)",
+    "family": "Late 2013",
+    "titles": [
+      "iMac 21.5-Inch &quot;Core i5&quot; 2.9 (Late 2013)",
+      "iMac 21.5-Inch &quot;Core i7&quot; 3.1 (Late 2013)"
+    ]
+  },
+  {
+    "intro": "2013-09-24T00:00:00.000Z",
+    "disc": "2015-10-13T00:00:00.000Z",
+    "model": "A1419 (EMC 2639)",
+    "family": "Late 2013",
+    "titles": [
+      "iMac 27-Inch &quot;Core i5&quot; 3.2 (Late 2013)",
+      "iMac 27-Inch &quot;Core i5&quot; 3.4 (Late 2013)",
+      "iMac 27-Inch &quot;Core i7&quot; 3.5 (Late 2013)"
+    ]
+  },
+  {
+    "intro": "2013-06-10T00:00:00.000Z",
+    "disc": "2014-04-29T00:00:00.000Z",
+    "model": "A1465 (EMC 2631)",
+    "family": "Mid-2013",
+    "titles": [
+      "MacBook Air &quot;Core i5&quot; 1.3 11&quot; (Mid-2013)",
+      "MacBook Air &quot;Core i7&quot; 1.7 11&quot; (Mid-2013)"
+    ]
+  },
+  {
+    "intro": "2013-06-10T00:00:00.000Z",
+    "disc": "2014-04-29T00:00:00.000Z",
+    "model": "A1466 (EMC 2632)",
+    "family": "Mid-2013",
+    "titles": [
+      "MacBook Air &quot;Core i5&quot; 1.3 13&quot; (Mid-2013)",
+      "MacBook Air &quot;Core i7&quot; 1.7 13&quot; (Mid-2013)"
+    ]
+  },
+  {
+    "intro": "2013-02-13T00:00:00.000Z",
+    "disc": "2013-10-22T00:00:00.000Z",
+    "model": "A1425 (EMC 2672)",
+    "family": "Retina Early 2013",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 2.6 Early 2013",
+      "MacBook Pro 13-Inch &quot;Core i7&quot; 3.0 Early 2013"
+    ]
+  },
+  {
+    "intro": "2013-02-13T00:00:00.000Z",
+    "disc": "2013-10-22T00:00:00.000Z",
+    "model": "A1398 (EMC 2673)",
+    "family": "Retina Early 2013",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.4 Early 2013",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.7 Early 2013",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.8 Early 2013"
+    ]
+  },
+  {
+    "intro": "2013-10-22T00:00:00.000Z",
+    "disc": "2014-07-29T00:00:00.000Z",
+    "model": "A1502 (EMC 2678)",
+    "family": "Retina Late 2013 13&quot;",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 2.4 Late 2013",
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 2.6 Late 2013",
+      "MacBook Pro 13-Inch &quot;Core i7&quot; 2.8 Late 2013"
+    ]
+  },
+  {
+    "intro": "2013-10-22T00:00:00.000Z",
+    "disc": "2014-07-29T00:00:00.000Z",
+    "model": "A1398 (EMC 2674)",
+    "family": "Retina Late 2013 15&quot;",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.0 Late 2013 (IG)",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.3 Late 2013 (IG)",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.6 Late 2013 (IG)"
+    ]
+  },
+  {
+    "intro": "2013-10-22T00:00:00.000Z",
+    "disc": "2014-07-29T00:00:00.000Z",
+    "model": "A1398 (EMC 2745)",
+    "family": "Retina Late 2013 15&quot;",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.3 Late 2013 (DG)",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.6 Late 2013 (DG)"
+    ]
+  },
+  {
+    "intro": "2013-10-22T00:00:00.000Z",
+    "disc": "2017-04-04T00:00:00.000Z",
+    "model": "A1481 (EMC 2630)",
+    "family": "Late 2013",
+    "titles": [
+      "Mac Pro &quot;Quad Core&quot; 3.7 (Late 2013)",
+      "Mac Pro &quot;Six Core&quot; 3.5 (Late 2013)",
+      "Mac Pro &quot;Eight Core&quot; 3.0 (Late 2013)",
+      "Mac Pro &quot;Twelve Core&quot; 2.7 (Late 2013)"
+    ]
+  },
+  {
+    "intro": "2014-06-18T00:00:00.000Z",
+    "disc": "2015-10-13T00:00:00.000Z",
+    "model": "A1418 (EMC 2805)",
+    "family": "Mid-2014",
+    "titles": [
+      "iMac 21.5-Inch &quot;Core i5&quot; 1.4 (Mid-2014)"
+    ]
+  },
+  {
+    "intro": "2014-10-16T00:00:00.000Z",
+    "disc": "2015-10-13T00:00:00.000Z",
+    "model": "A1419 (EMC 2806)",
+    "family": "Retina 5K, Late 2014",
+    "titles": [
+      "iMac 27-Inch &quot;Core i5&quot; 3.5 (5K, Late 2014)",
+      "iMac 27-Inch &quot;Core i7&quot; 4.0 (5K, Late 2014)"
+    ]
+  },
+  {
+    "intro": "2014-04-29T00:00:00.000Z",
+    "disc": "2015-03-09T00:00:00.000Z",
+    "model": "A1465 (EMC 2631)",
+    "family": "Early 2014",
+    "titles": [
+      "MacBook Air &quot;Core i5&quot; 1.4 11&quot; (Early 2014)",
+      "MacBook Air &quot;Core i7&quot; 1.7 11&quot; (Early 2014)"
+    ]
+  },
+  {
+    "intro": "2014-04-29T00:00:00.000Z",
+    "disc": "2015-03-09T00:00:00.000Z",
+    "model": "A1466 (EMC 2632)",
+    "family": "Early 2014",
+    "titles": [
+      "MacBook Air &quot;Core i5&quot; 1.4 13&quot; (Early 2014)",
+      "MacBook Air &quot;Core i7&quot; 1.7 13&quot; (Early 2014)"
+    ]
+  },
+  {
+    "intro": "2014-07-29T00:00:00.000Z",
+    "disc": "2015-03-09T00:00:00.000Z",
+    "model": "A1502 (EMC 2875)",
+    "family": "Retina Mid-2014 13&quot;",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 2.6 Mid-2014",
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 2.8 Mid-2014",
+      "MacBook Pro 13-Inch &quot;Core i7&quot; 3.0 Mid-2014"
+    ]
+  },
+  {
+    "intro": "2014-07-29T00:00:00.000Z",
+    "disc": "2015-05-19T00:00:00.000Z",
+    "model": "A1398 (EMC 2876)",
+    "family": "Retina Mid-2014 15&quot;",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.2 Mid-2014 (IG)",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.5 Mid-2014 (IG)",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.8 Mid-2014 (IG)"
+    ]
+  },
+  {
+    "intro": "2014-07-29T00:00:00.000Z",
+    "disc": "2015-05-19T00:00:00.000Z",
+    "model": "A1398 (EMC 2881)",
+    "family": "Retina Mid-2014 15&quot;",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.5 Mid-2014 (DG)",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.8 Mid-2014 (DG)"
+    ]
+  },
+  {
+    "intro": "2014-10-16T00:00:00.000Z",
+    "disc": "2018-10-30T00:00:00.000Z",
+    "model": "A1347 (EMC 2840)",
+    "family": "Late 2014",
+    "titles": [
+      "Mac mini &quot;Core i5&quot; 1.4 (Late 2014)",
+      "Mac mini &quot;Core i5&quot; 2.6 (Late 2014)",
+      "Mac mini &quot;Core i5&quot; 2.8 (Late 2014)",
+      "Mac mini &quot;Core i7&quot; 3.0 (Late 2014)"
+    ]
+  },
+  {
+    "intro": "2015-05-19T00:00:00.000Z",
+    "disc": "2015-10-13T00:00:00.000Z",
+    "model": "A1419 (EMC 2806)",
+    "family": "Retina 5K, Mid-2015",
+    "titles": [
+      "iMac 27-Inch &quot;Core i5&quot; 3.3 (5K, Mid-2015)"
+    ]
+  },
+  {
+    "intro": "2015-10-13T00:00:00.000Z",
+    "disc": "2017-06-05T00:00:00.000Z",
+    "model": "A1418 (EMC 2889)",
+    "family": "Late 2015",
+    "titles": [
+      "iMac 21.5-Inch &quot;Core i5&quot; 1.6 (Late 2015)",
+      "iMac 21.5-Inch &quot;Core i5&quot; 2.8 (Late 2015)"
+    ]
+  },
+  {
+    "intro": "2015-10-13T00:00:00.000Z",
+    "disc": "2017-06-05T00:00:00.000Z",
+    "model": "A1418 (EMC 2833)",
+    "family": "Retina 4K, Late 2015",
+    "titles": [
+      "iMac 21.5-Inch &quot;Core i5&quot; 3.1 (4K, Late 2015)",
+      "iMac 21.5-Inch &quot;Core i7&quot; 3.3 (4K, Late 2015)"
+    ]
+  },
+  {
+    "intro": "2015-10-13T00:00:00.000Z",
+    "disc": "2017-06-05T00:00:00.000Z",
+    "model": "A1419 (EMC 2834)",
+    "family": "Retina 5K, Late 2015",
+    "titles": [
+      "iMac 27-Inch &quot;Core i5&quot; 3.2 (5K, Late 2015)",
+      "iMac 27-Inch &quot;Core i5&quot; 3.3 (5K, Late 2015)",
+      "iMac 27-Inch &quot;Core i7&quot; 4.0 (5K, Late 2015)"
+    ]
+  },
+  {
+    "intro": "2015-03-09T00:00:00.000Z",
+    "disc": "2016-04-19T00:00:00.000Z",
+    "model": "A1534 (EMC 2746)",
+    "family": "Early 2015",
+    "titles": [
+      "MacBook &quot;Core M&quot; 1.1 12&quot; (Early 2015)",
+      "MacBook &quot;Core M&quot; 1.2 12&quot; (Early 2015)",
+      "MacBook &quot;Core M&quot; 1.3 12&quot; (Early 2015)"
+    ]
+  },
+  {
+    "intro": "2015-03-09T00:00:00.000Z",
+    "disc": "2016-10-27T00:00:00.000Z",
+    "model": "A1465 (EMC 2924)",
+    "family": "Early 2015",
+    "titles": [
+      "MacBook Air &quot;Core i5&quot; 1.6 11&quot; (Early 2015)",
+      "MacBook Air &quot;Core i7&quot; 2.2 11&quot; (Early 2015)"
+    ]
+  },
+  {
+    "intro": "2015-03-09T00:00:00.000Z",
+    "disc": "2017-06-05T00:00:00.000Z",
+    "model": "A1466 (EMC 2925)",
+    "family": "Early 2015",
+    "titles": [
+      "MacBook Air &quot;Core i5&quot; 1.6 13&quot; (Early 2015)",
+      "MacBook Air &quot;Core i7&quot; 2.2 13&quot; (Early 2015)"
+    ]
+  },
+  {
+    "intro": "2015-03-09T00:00:00.000Z",
+    "disc": "2017-06-05T00:00:00.000Z",
+    "model": "A1502 (EMC 2835)",
+    "family": "Retina Early 2015 13&quot;",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 2.7 Early 2015",
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 2.9 Early 2015",
+      "MacBook Pro 13-Inch &quot;Core i7&quot; 3.1 Early 2015"
+    ]
+  },
+  {
+    "intro": "2015-05-19T00:00:00.000Z",
+    "disc": "2018-07-12T00:00:00.000Z",
+    "model": "A1398 (EMC 2909)",
+    "family": "Retina Mid-2015 15&quot;",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.2 Mid-2015 (IG)",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.5 Mid-2015 (IG)",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.8 Mid-2015 (IG)"
+    ]
+  },
+  {
+    "intro": "2015-05-19T00:00:00.000Z",
+    "disc": "2016-10-27T00:00:00.000Z",
+    "model": "A1398 (EMC 2910)",
+    "family": "Retina Mid-2015 15&quot;",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.5 Mid-2015 (DG)",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.8 Mid-2015 (DG)"
+    ]
+  },
+  {
+    "intro": "2016-04-19T00:00:00.000Z",
+    "disc": "2017-06-05T00:00:00.000Z",
+    "model": "A1534 (EMC 2991)",
+    "family": "Early 2016",
+    "titles": [
+      "MacBook &quot;Core m3&quot; 1.1 12&quot; (Early 2016)",
+      "MacBook &quot;Core m5&quot; 1.2 12&quot; (Early 2016)",
+      "MacBook &quot;Core m7&quot; 1.3 12&quot; (Early 2016)"
+    ]
+  },
+  {
+    "intro": "2016-10-27T00:00:00.000Z",
+    "disc": "2017-06-05T00:00:00.000Z",
+    "model": "A1708 (EMC 2978)",
+    "family": "Late 2016 13&quot;",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 2.0 Late 2016",
+      "MacBook Pro 13-Inch &quot;Core i7&quot; 2.4 Late 2016"
+    ]
+  },
+  {
+    "intro": "2016-10-27T00:00:00.000Z",
+    "disc": "2017-06-05T00:00:00.000Z",
+    "model": "A1706 (EMC 3071)",
+    "family": "Late 2016 13&quot; (Touch Bar)",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 2.9 Touch/Late 2016",
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 3.1 Touch/Late 2016",
+      "MacBook Pro 13-Inch &quot;Core i7&quot; 3.3 Touch/Late 2016"
+    ]
+  },
+  {
+    "intro": "2016-10-27T00:00:00.000Z",
+    "disc": "2017-06-05T00:00:00.000Z",
+    "model": "A1707 (EMC 3072)",
+    "family": "Late 2016 15&quot; (Touch Bar)",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.6 Touch/Late 2016",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.7 Touch/Late 2016",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.9 Touch/Late 2016"
+    ]
+  },
+  {
+    "intro": "2017-06-05T00:00:00.000Z",
+    "disc": "N/A",
+    "model": "A1418 (EMC 3068)",
+    "family": "Mid-2017",
+    "titles": [
+      "iMac 21.5-Inch &quot;Core i5&quot; 2.3 (Mid-2017)"
+    ]
+  },
+  {
+    "intro": "2017-06-05T00:00:00.000Z",
+    "disc": "2019-03-19T00:00:00.000Z",
+    "model": "A1418 (EMC 3069)",
+    "family": "Retina 4K, Mid-2017",
+    "titles": [
+      "iMac 21.5-Inch &quot;Core i5&quot; 3.0 (4K, Mid-2017)",
+      "iMac 21.5-Inch &quot;Core i5&quot; 3.4 (4K, Mid-2017)",
+      "iMac 21.5-Inch &quot;Core i7&quot; 3.6 (4K, Mid-2017)"
+    ]
+  },
+  {
+    "intro": "2017-06-05T00:00:00.000Z",
+    "disc": "2019-03-19T00:00:00.000Z",
+    "model": "A1419 (EMC 3070)",
+    "family": "Retina 5K, Mid-2017",
+    "titles": [
+      "iMac 27-Inch &quot;Core i5&quot; 3.4 (5K, Mid-2017)",
+      "iMac 27-Inch &quot;Core i5&quot; 3.5 (5K, Mid-2017)",
+      "iMac 27-Inch &quot;Core i5&quot; 3.8 (5K, Mid-2017)",
+      "iMac 27-Inch &quot;Core i7&quot; 4.2 (5K, Mid-2017)"
+    ]
+  },
+  {
+    "intro": "2017-12-14T00:00:00.000Z",
+    "disc": "2020-08-04T00:00:00.000Z",
+    "model": "A1862 (EMC 3144)",
+    "family": "iMac Pro, Late 2017",
+    "titles": [
+      "iMac Pro &quot;8-Core&quot; 3.2 27-Inch (5K, Late 2017)",
+      "iMac Pro &quot;10-Core&quot; 3.0 27-Inch (5K, Late 2017)",
+      "iMac Pro &quot;14-Core&quot; 2.5 27-Inch (5K, Late 2017)",
+      "iMac Pro &quot;18-Core&quot; 2.3 27-Inch (5K, Late 2017)"
+    ]
+  },
+  {
+    "intro": "2017-06-05T00:00:00.000Z",
+    "disc": "2019-07-09T00:00:00.000Z",
+    "model": "A1534 (EMC 3099)",
+    "family": "Mid-2017",
+    "titles": [
+      "MacBook &quot;Core m3&quot; 1.2 12&quot; (Mid-2017)",
+      "MacBook &quot;Core i5&quot; 1.3 12&quot; (Mid-2017)",
+      "MacBook &quot;Core i7&quot; 1.4 12&quot; (Mid-2017)"
+    ]
+  },
+  {
+    "intro": "2017-06-05T00:00:00.000Z",
+    "disc": "2019-07-09T00:00:00.000Z",
+    "model": "A1466 (EMC 3178)",
+    "family": "13-inch, 2017**",
+    "titles": [
+      "MacBook Air &quot;Core i5&quot; 1.8 13&quot; (2017*)",
+      "MacBook Air &quot;Core i7&quot; 2.2 13&quot; (2017*)"
+    ]
+  },
+  {
+    "intro": "2017-06-05T00:00:00.000Z",
+    "disc": "2019-07-09T00:00:00.000Z",
+    "model": "A1708 (EMC 3164)",
+    "family": "Mid-2017 13&quot;",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 2.3 Mid-2017",
+      "MacBook Pro 13-Inch &quot;Core i7&quot; 2.5 Mid-2017"
+    ]
+  },
+  {
+    "intro": "2017-06-05T00:00:00.000Z",
+    "disc": "2018-07-12T00:00:00.000Z",
+    "model": "A1706 (EMC 3163)",
+    "family": "Mid-2017 13&quot; (Touch Bar)",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 3.1 Touch/Mid-2017",
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 3.3 Touch/Mid-2017",
+      "MacBook Pro 13-Inch &quot;Core i7&quot; 3.5 Touch/Mid-2017"
+    ]
+  },
+  {
+    "intro": "2017-06-05T00:00:00.000Z",
+    "disc": "2018-07-12T00:00:00.000Z",
+    "model": "A1707 (EMC 3162)",
+    "family": "Mid-2017 15&quot; (Touch Bar)",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.8 Touch/Mid-2017",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.9 Touch/Mid-2017",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 3.1 Touch/Mid-2017"
+    ]
+  },
+  {
+    "intro": "2018-10-30T00:00:00.000Z",
+    "disc": "2019-07-09T00:00:00.000Z",
+    "model": "A1932 (EMC 3184)",
+    "family": "Late 2018**",
+    "titles": [
+      "MacBook Air &quot;Core i5&quot; 1.6 13&quot; (Late 2018)"
+    ]
+  },
+  {
+    "intro": "2018-07-12T00:00:00.000Z",
+    "disc": "2019-05-21T00:00:00.000Z",
+    "model": "A1989 (EMC 3214)",
+    "family": "Mid-2018 13&quot; (Touch Bar)*",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 2.3 Touch/2018",
+      "MacBook Pro 13-Inch &quot;Core i7&quot; 2.7 Touch/2018"
+    ]
+  },
+  {
+    "intro": "2018-07-12T00:00:00.000Z",
+    "disc": "2019-05-21T00:00:00.000Z",
+    "model": "A1990 (EMC 3215)",
+    "family": "Mid-2018 15&quot; (Touch Bar)",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.2 Touch/2018",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.6 Touch/2018",
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.6 Touch/2018 Vega",
+      "MacBook Pro 15-Inch &quot;Core i9&quot; 2.9 Touch/2018",
+      "MacBook Pro 15-Inch &quot;Core i9&quot; 2.9 Touch/2018 Vega"
+    ]
+  },
+  {
+    "intro": "2018-10-30T00:00:00.000Z",
+    "disc": "2020-11-10T00:00:00.000Z",
+    "model": "A1993 (EMC 3213)",
+    "family": "2018",
+    "titles": [
+      "Mac mini &quot;Core i3&quot; 3.6 (Late 2018)",
+      "Mac mini &quot;Core i5&quot; 3.0 (Late 2018)",
+      "Mac mini &quot;Core i7&quot; 3.2 (Late 2018)"
+    ]
+  },
+  {
+    "intro": "2019-03-19T00:00:00.000Z",
+    "disc": "N/A",
+    "model": "A2116 (EMC 3195)",
+    "family": "Retina 4K, 21.5-Inch, 2019",
+    "titles": [
+      "iMac 21.5-Inch &quot;Core i3&quot; 3.6 (4K, 2019)",
+      "iMac 21.5-Inch &quot;Core i5&quot; 3.0 (4K, 2019)",
+      "iMac 21.5-Inch &quot;Core i7&quot; 3.2 (4K, 2019)"
+    ]
+  },
+  {
+    "intro": "2019-03-19T00:00:00.000Z",
+    "disc": "2020-08-04T00:00:00.000Z",
+    "model": "A2115 (EMC 3194)",
+    "family": "Retina 5K, 27-Inch, 2019",
+    "titles": [
+      "iMac 27-Inch &quot;Core i5&quot; 3.0 (5K, 2019)",
+      "iMac 27-Inch &quot;Core i5&quot; 3.1 (5K, 2019)",
+      "iMac 27-Inch &quot;Core i5&quot; 3.7 (5K, 2019)",
+      "iMac 27-Inch &quot;Core i9&quot; 3.6 (5K, 2019)"
+    ]
+  },
+  {
+    "intro": "2019-07-09T00:00:00.000Z",
+    "disc": "2020-03-18T00:00:00.000Z",
+    "model": "A1932 (EMC 3184)",
+    "family": "2019**",
+    "titles": [
+      "MacBook Air &quot;Core i5&quot; 1.6 13&quot; (True Tone, 2019)"
+    ]
+  },
+  {
+    "intro": "2019-05-21T00:00:00.000Z",
+    "disc": "2020-05-04T00:00:00.000Z",
+    "model": "A1989 (EMC 3358)",
+    "family": "2019 13&quot; (Touch Bar)*",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 2.4 Touch/2019",
+      "MacBook Pro 13-Inch &quot;Core i7&quot; 2.8 Touch/2019"
+    ]
+  },
+  {
+    "intro": "2019-05-21T00:00:00.000Z",
+    "disc": "2019-11-13T00:00:00.000Z",
+    "model": "A1990 (EMC 3359)",
+    "family": "2019 15&quot; (Touch Bar)*",
+    "titles": [
+      "MacBook Pro 15-Inch &quot;Core i7&quot; 2.6 Touch/2019",
+      "MacBook Pro 15-Inch &quot;Core i9&quot; 2.3 Touch/2019",
+      "MacBook Pro 15-Inch &quot;Core i9&quot; 2.3 Touch/2019 Vega",
+      "MacBook Pro 15-Inch &quot;Core i9&quot; 2.4 Touch/2019",
+      "MacBook Pro 15-Inch &quot;Core i9&quot; 2.4 Touch/2019 Vega"
+    ]
+  },
+  {
+    "intro": "2019-07-09T00:00:00.000Z",
+    "disc": "2020-05-04T00:00:00.000Z",
+    "model": "A2159 (EMC 3301)",
+    "family": "2019 13&quot; (Touch Bar, 2 TB 3)*",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 1.4 Touch/2019 2 TB 3",
+      "MacBook Pro 13-Inch &quot;Core i7&quot; 1.7 Touch/2019 2 TB 3"
+    ]
+  },
+  {
+    "intro": "2019-11-13T00:00:00.000Z",
+    "disc": "N/A",
+    "model": "A2141 (EMC 3347)",
+    "family": "2019 16&quot;",
+    "titles": [
+      "MacBook Pro 16-Inch &quot;Core i7&quot; 2.6 2019",
+      "MacBook Pro 16-Inch &quot;Core i9&quot; 2.3 2019",
+      "MacBook Pro 16-Inch &quot;Core i9&quot; 2.4 2019",
+      "MacBook Pro 16-Inch &quot;Core i7&quot; 2.6 2019 5600M",
+      "MacBook Pro 16-Inch &quot;Core i9&quot; 2.3 2019 5600M",
+      "MacBook Pro 16-Inch &quot;Core i9&quot; 2.4 2019 5600M"
+    ]
+  },
+  {
+    "intro": "2019-06-03T00:00:00.000Z",
+    "disc": "N/A",
+    "model": "A1991 (EMC 3203)",
+    "family": "2019",
+    "titles": [
+      "Mac Pro &quot;Eight Core&quot; 3.5 (2019)",
+      "Mac Pro &quot;12-Core&quot; 3.3 (2019)",
+      "Mac Pro &quot;16-Core&quot; 3.2 (2019)",
+      "Mac Pro &quot;24-Core&quot; 2.7 (2019)",
+      "Mac Pro &quot;28-Core&quot; 2.5 (2019)"
+    ]
+  },
+  {
+    "intro": "2019-06-03T00:00:00.000Z",
+    "disc": "N/A",
+    "model": "A2304 (EMC 3413)",
+    "family": "2019",
+    "titles": [
+      "Mac Pro &quot;Eight Core&quot; 3.5 (2019 - Rack)",
+      "Mac Pro &quot;12-Core&quot; 3.3 (2019 - Rack)",
+      "Mac Pro &quot;16-Core&quot; 3.2 (2019 - Rack)",
+      "Mac Pro &quot;24-Core&quot; 2.7 (2019 - Rack)",
+      "Mac Pro &quot;28-Core&quot; 2.5 (2019 - Rack)"
+    ]
+  },
+  {
+    "intro": "2020-08-04T00:00:00.000Z",
+    "disc": "N/A",
+    "model": "A2115 (EMC 3442)",
+    "family": "Retina 5K, 27-Inch, 2020",
+    "titles": [
+      "iMac 27-Inch &quot;Core i5&quot; 3.1 (5K, 2020)",
+      "iMac 27-Inch &quot;Core i5&quot; 3.3 (5K, 2020)",
+      "iMac 27-Inch &quot;Core i7&quot; 3.8 (5K, 2020)",
+      "iMac 27-Inch &quot;Core i9&quot; 3.6 (5K, 2020)",
+      "iMac 27-Inch &quot;Core i7&quot; 3.8 (5K, 2020; 5700/XT)",
+      "iMac 27-Inch &quot;Core i9&quot; 3.6 (5K, 2020; 5700/XT)"
+    ]
+  },
+  {
+    "intro": "2020-03-18T00:00:00.000Z",
+    "disc": "2020-11-10T00:00:00.000Z",
+    "model": "A2179 (EMC 3302)",
+    "family": "2020**",
+    "titles": [
+      "MacBook Air &quot;Core i3&quot; 1.1 13&quot; (Scissor, 2020)",
+      "MacBook Air &quot;Core i5&quot; 1.1 13&quot; (Scissor, 2020)",
+      "MacBook Air &quot;Core i7&quot; 1.2 13&quot; (Scissor, 2020)"
+    ]
+  },
+  {
+    "intro": "2020-11-10T00:00:00.000Z",
+    "disc": "N/A",
+    "model": "A2337 (EMC 3598)",
+    "family": "M1, 2020",
+    "titles": [
+      "MacBook Air &quot;M1&quot; 8-Core 3.2/7-Core GPU 13&quot;",
+      "MacBook Air &quot;M1&quot; 8-Core 3.2/8-Core GPU 13&quot;"
+    ]
+  },
+  {
+    "intro": "2020-05-04T00:00:00.000Z",
+    "disc": "2020-11-10T00:00:00.000Z",
+    "model": "A2289 (EMC 3456)",
+    "family": "2020 13&quot; (2 TB 3)",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 1.4 2020 2 TB 3",
+      "MacBook Pro 13-Inch &quot;Core i7&quot; 1.7 2020 2 TB 3"
+    ]
+  },
+  {
+    "intro": "2020-05-04T00:00:00.000Z",
+    "disc": "N/A",
+    "model": "A2251 (EMC 3348)",
+    "family": "2020 13&quot; (4 TB 3)",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;Core i5&quot; 2.0 2020 4 TB 3",
+      "MacBook Pro 13-Inch &quot;Core i7&quot; 2.3 2020 4 TB 3"
+    ]
+  },
+  {
+    "intro": "2020-11-10T00:00:00.000Z",
+    "disc": "N/A",
+    "model": "A2338 (EMC 3578)",
+    "family": "M1, 2020",
+    "titles": [
+      "MacBook Pro 13-Inch &quot;M1&quot; 8-Core 3.2 (2020)"
+    ]
+  },
+  {
+    "intro": "2020-06-22T00:00:00.000Z",
+    "disc": "N/A",
+    "model": "A2330 (EMC 3568)",
+    "family": "Apple DTK",
+    "titles": [
+      "Mac mini Developer Transition Kit (DTK)"
+    ]
+  },
+  {
+    "intro": "2020-11-10T00:00:00.000Z",
+    "disc": "N/A",
+    "model": "A2348 (EMC 3569)",
+    "family": "M1, 2020",
+    "titles": [
+      "Mac mini &quot;M1&quot; 8-Core 3.2 (2020)"
+    ]
+  }
+]
