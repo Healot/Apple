@@ -11,7 +11,7 @@ export function App() {
   return (
     <div className="App">
         <ProductSummary models={finalData['MacBook Air']} title={'MacBook Air'} description={''} image={''}/>
-     
+      <h1>qwewre</h1>
         
     </div>
   );
