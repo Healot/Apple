@@ -1,6 +1,8 @@
 import React from 'react';
 import {groupByFamily} from './BuyersGuide/utils/groupByFamily'
-import  { useState, useContext, useEffect, useCallback, useMemo } from 'react';
+import  { useState, useContext,  useCallback, useMemo } from 'react';
+
+
 import {ProductSummary} from './BuyersGuide/components/ProductSummary'
 const json = require('./macs.json');
 // sadadasdasd
