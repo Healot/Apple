@@ -4,7 +4,7 @@ import {groupByFamily} from './BuyersGuide/utils/groupByFamily'
 
 import {ProductSummary} from './BuyersGuide/components/ProductSummary'
 const json = require('./macs.json');
-
+// sadadasdasd
 const finalData = groupByFamily(json);
 console.log(finalData)
 export function App() {
