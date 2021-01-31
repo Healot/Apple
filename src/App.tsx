@@ -1,10 +1,9 @@
 import React from 'react';
 import {groupByFamily} from './BuyersGuide/utils/groupByFamily'
-import { useState, useContext, useEffect, useCallback } from 'react';
 
 import {ProductSummary} from './BuyersGuide/components/ProductSummary'
 const json = require('./macs.json');
-
+// sadadasdasd
 const finalData = groupByFamily(json);
 console.log(finalData)
 export function App() {
