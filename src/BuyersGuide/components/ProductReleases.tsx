@@ -34,8 +34,8 @@ export function ProductReleases({
     function fromISOtoDate(someISOdate: string): string {
         const newDate = new Date(someISOdate);
         const year = newDate.getFullYear();
-        let month = newDate.getMonth()+1;
-        return `${month}  ${year}`
+        const month = newDate.getMonth()+1;
+        return `${month} ${year}`
     }
 
   return (
