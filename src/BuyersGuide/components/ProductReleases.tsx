@@ -21,17 +21,15 @@ export function ProductReleases({
   averageLifetime,
 }: IProductReleaseProps) {
 
-
-    const color = (() => {
-        const dividedValue = lastReleaseLifetime / averageLifetime;
-        if (dividedValue <= 0.33) {
-            return 'green';
-        } else if (dividedValue <= 0.66) {
-            return 'yellow';
-        } else {
-            return 'red';
-        }
-    })()
+    const dividedValue = lastReleaseLifetime / averageLifetime;
+    let color: string;
+    if (dividedValue <= 0.33) {
+        color = 'green';
+    } else if (dividedValue <= 0.66) {
+        color = 'yellow';
+    } else {
+        color = 'red';
+    }
 
     function fromISOtoDate(someISOdate: string): string {
         const newDate = new Date(someISOdate);
