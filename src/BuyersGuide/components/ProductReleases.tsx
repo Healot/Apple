@@ -31,10 +31,11 @@ export function ProductReleases({
         color = 'red';
     }
 
-    function fromISOtoDate(someISOdate: string): string {
+    function ISOtoNormalDate(someISOdate: string): string {
         const newDate = new Date(someISOdate);
         const year = newDate.getFullYear();
-        const month = newDate.getMonth()+1;
+        const month = newDate.getMonth() + 1;
+        
         return `${month} ${year}`
     }
 
@@ -56,7 +57,7 @@ export function ProductReleases({
                 return (
                     <div>
                         <div className='releases__recent_date'>
-                            {fromISOtoDate(obj.intro)}
+                            {ISOtoNormalDate(obj.intro)}
                         </div>
                         <ProgressBar color={color} maxLifetime={maxLifetime} currentLifetime={obj.lifetime}/>
                         <div>
