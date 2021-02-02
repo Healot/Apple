@@ -1,12 +1,8 @@
 import React from 'react';
 import {groupByFamily} from './BuyersGuide/utils/groupByFamily'
-<<<<<<< HEAD
 import  { useState, useContext,  useCallback, useMemo } from 'react';
 
 
-=======
-import  { useState,  useEffect, useCallback, useMemo } from 'react';
->>>>>>> 284703c (master delete context)
 import {ProductSummary} from './BuyersGuide/components/ProductSummary'
 const json = require('./macs.json');
 // sadadasdasd
