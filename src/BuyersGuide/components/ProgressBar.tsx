@@ -9,15 +9,6 @@ interface IProgressBar {
 interface IFeatureStyle extends React.CSSProperties {
   '--width': number;
 }
-
-const containerStyles = {
-  height: 20,
-  width: "100%",
-  backgroundColor: "#e0e0de",
-  borderRadius: 50,
-  margin: 50,
-};
-
 function ProgressBar({ color, currentLifetime, maxLifetime }: IProgressBar) {
 
   const fillerStyles: React.CSSProperties = {
