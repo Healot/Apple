@@ -1,9 +1,8 @@
 import {groupByFamily} from './BuyersGuide/utils/groupByFamily'
-const json = require('./macs.json');
+const data = require('./macs.json');
 const { promises: fs} = require('fs');
 
-function go() {
-    const newJson = JSON.stringify(groupByFamily(json));
-    fs.writeFile('./newjson.json', json, {encoding: 'utf8'});
+function go(data) {
+    const newJson = JSON.stringify(groupByFamily(data));
+    fs.writeFile('./newjson.json', data, {encoding: 'utf8'});
   }
-  go();
