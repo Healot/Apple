@@ -1,7 +1,10 @@
 import {IMacModelRaw , IMacModelDto, IMacModel, NonEmptyArray} from './groupByFamily';
+
 const { v4: uuidv4 } = require('uuid');
+
 export function deduplicateModels(array: IMacModelDto[]): IMacModelRaw[] {
     const modelsDtoByIntro: { [key: string]: IMacModelDto[] } = {};
+    
     array.forEach(el => {
       modelsDtoByIntro[el.intro] = [];
       modelsDtoByIntro[el.intro].push(el);

@@ -4,6 +4,7 @@ import {addIdToData} from './addIdToData'
 const json = require('../../macs.json');;
 
 export type NonEmptyArray<T> = [T, ...T[]];
+
 export interface IMacModelDto {
     "intro": string;
     "disc": string;
@@ -64,6 +65,3 @@ export function groupByFamily(models: IMacModelDto[]): IMacFamilyGroups {
 
     return o;
 }
-// concat titles & models by family in each object
-
-/// UUID

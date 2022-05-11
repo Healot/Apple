@@ -55,15 +55,7 @@ function getProductReleasesMeta(models: IMacModel[]) {
     averageLifetime,
   };
 }
-// const ThemeContext = React.createContext(themes.light);
 
-// <ThemeContext.Provider value={5}>
-//     <div>...</div>
-// </ThemeContext.Provider>
-// const inputEl = useRef(1);
-// function adsa() {
-//     inputEl.current += 1
-// }
 export function ProductSummary({
   title,
   description,
@@ -74,11 +66,6 @@ export function ProductSummary({
     models,
   ]);
 
-  // const memoizedValue = useMemo(() => computeExpensiveValue(a, b), [a, b]);
-
-//   const productReleasesMeta = getProductReleasesMeta(models);
-
-
   const {
     releases,
     lastReleaseLifetime,
@@ -87,17 +74,8 @@ export function ProductSummary({
   } = productReleasesMeta;
   console.log(productReleasesMeta);
 
-//   if (x > 5) {
-//     return <div></div>;
-//   }
-
-//   const f = useCallback(function () {
-//     return 2 + 2;
-//   }, []);
-
   return (
     <div>
-      {/* <ProductInfo /> */}
       <ProductReleases
         releases={releases}
         lastReleaseLifetime={lastReleaseLifetime}
